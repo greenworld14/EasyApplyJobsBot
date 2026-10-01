@@ -1,0 +1,618 @@
+---- Applied Jobs Data ---- created at: 20261001
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 0.4 min
+
+ Dice | Category: frontend, Location: Remote
+1 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8a72cf0e-af66-437a-abe1-e5fac68f8cac
+2 | Remote UI/Front End Engineer | 804 Technology |  | * 🥳 Already applied!: https://www.dice.com/job-detail/92b81af4-5d9c-4a42-81ee-5a05040e091a
+3 | Software Front End Development Engineer | Openmind Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/998c0128-33f6-44a1-8d01-ef8f03f2c8d6
+4 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/46dda130-0c6f-4d84-ac36-a5e7113c65c3
+5 | Senior Front-End Agentic AI Engineer | LTS |  | * 🥳 Already applied!: https://www.dice.com/job-detail/103cf371-0c13-4be1-8e56-21d6fc470dae
+6 | Sr Full Stack Software Engineer (Front End Focused - Angular/TypeScript) | Patriot Talent Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/788bae4e-4a21-49d6-994b-696b87e61f6b
+7 | Full Stack Developer | BizTech Staffing |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+8 | Site Reliability Engineer | Visionary Innovative Technology Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3d978761-5522-497c-b899-1e97107c0aef
+9 | Software Developers | 4 Consulting Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0596ea78-c4cf-4e69-811d-cfec9f11945c
+10 | Software Developers | 4 Consulting Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/2b0b4bcc-4c64-4350-90ec-70128b643f80
+11 | UI Developer – React.js / Node.js | Infosat IT Services LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4ad082d2-d76f-4d2d-9433-decf5c880b6f
+12 | Full Stack Engineer, AI Systems, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7ffbd021-3964-4cf2-9f83-79e182130261
+13 | Elixir Developer (Phoenix + LiveView focus) | MASH Pro Tech |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8c40e3c9-e3cf-4a4f-82ff-91d0667852db
+14 | C++ Senior Developer | HPTech Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/512a8299-1515-498a-a7fb-1d8804872764
+15 | Senior .NET Developer | Sagarsoft |  | * 🥳 Already applied!: https://www.dice.com/job-detail/5096c37c-6fec-46f9-b4f2-1e7cd989d4f9
+16 | Elixir Developer (Phoenix + LiveView focus) | Spruce Technology Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/72a7bf1c-c059-4824-ac46-464ebc55947c
+17 | Python FullStack Developer 5+ | TekVivid |  | * 🥳 Already applied!: https://www.dice.com/job-detail/dd72128e-16cd-4140-9853-2b4b53e57b92
+18 | Lead Developer (Java+ React) Only W2 (Hybrid) | Nasscomm, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/de716917-b01e-46b2-abb8-055159cfd6ac
+19 | Lead Java Fullstack Developer/Architect- (USC) (GC)-W2 Only- Hybrid | ISite Technologies Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/210fa573-9873-4b0a-b2ba-a9c5221b7345
+20 | Full Stack Application Developer | Xpertiz Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a3135c0b-a14a-4403-b7c6-4b227417553e
+21 | Java Full Stack Developer | Zyxware Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e90b3a79-72c1-4568-b0e8-effe9e9eccc1
+22 | C++ distributed systems developer | Laiba Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/69a5a108-b162-4e9d-bbf0-c21f658cb200
+23 | Platform Design Systems Lead (Remote) | Tandym Tech |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f8b1c379-09b1-47c6-b192-0b8812e98c46
+
+ Dice | Category: frontend, Location: Remote
+1 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8a72cf0e-af66-437a-abe1-e5fac68f8cac
+2 | Remote UI/Front End Engineer | 804 Technology |  | * 🥳 Already applied!: https://www.dice.com/job-detail/92b81af4-5d9c-4a42-81ee-5a05040e091a
+3 | Software Front End Development Engineer | Openmind Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/998c0128-33f6-44a1-8d01-ef8f03f2c8d6
+4 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/46dda130-0c6f-4d84-ac36-a5e7113c65c3
+5 | Senior Front-End Agentic AI Engineer | LTS |  | * 🥳 Already applied!: https://www.dice.com/job-detail/103cf371-0c13-4be1-8e56-21d6fc470dae
+6 | Sr Full Stack Software Engineer (Front End Focused - Angular/TypeScript) | Patriot Talent Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/788bae4e-4a21-49d6-994b-696b87e61f6b
+7 | Full Stack Developer | BizTech Staffing |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+8 | Site Reliability Engineer | Visionary Innovative Technology Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3d978761-5522-497c-b899-1e97107c0aef
+9 | Software Developers | 4 Consulting Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0596ea78-c4cf-4e69-811d-cfec9f11945c
+10 | Software Developers | 4 Consulting Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/2b0b4bcc-4c64-4350-90ec-70128b643f80
+11 | UI Developer – React.js / Node.js | Infosat IT Services LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4ad082d2-d76f-4d2d-9433-decf5c880b6f
+12 | Full Stack Engineer, AI Systems, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7ffbd021-3964-4cf2-9f83-79e182130261
+13 | Elixir Developer (Phoenix + LiveView focus) | MASH Pro Tech |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8c40e3c9-e3cf-4a4f-82ff-91d0667852db
+14 | C++ Senior Developer | HPTech Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/512a8299-1515-498a-a7fb-1d8804872764
+15 | Senior .NET Developer | Sagarsoft |  | * 🥳 Already applied!: https://www.dice.com/job-detail/5096c37c-6fec-46f9-b4f2-1e7cd989d4f9
+16 | Elixir Developer (Phoenix + LiveView focus) | Spruce Technology Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/72a7bf1c-c059-4824-ac46-464ebc55947c
+17 | Python FullStack Developer 5+ | TekVivid |  | * 🥳 Already applied!: https://www.dice.com/job-detail/dd72128e-16cd-4140-9853-2b4b53e57b92
+18 | Lead Developer (Java+ React) Only W2 (Hybrid) | Nasscomm, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/de716917-b01e-46b2-abb8-055159cfd6ac
+19 | Lead Java Fullstack Developer/Architect- (USC) (GC)-W2 Only- Hybrid | ISite Technologies Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/210fa573-9873-4b0a-b2ba-a9c5221b7345
+20 | Full Stack Application Developer | Xpertiz Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a3135c0b-a14a-4403-b7c6-4b227417553e
+21 | Java Full Stack Developer | Zyxware Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e90b3a79-72c1-4568-b0e8-effe9e9eccc1
+22 | C++ distributed systems developer | Laiba Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/69a5a108-b162-4e9d-bbf0-c21f658cb200
+23 | Platform Design Systems Lead (Remote) | Tandym Tech |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f8b1c379-09b1-47c6-b192-0b8812e98c46
+24 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b7f52b3a-bf23-4625-ba0b-2c5249e2fa83
+25 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a0cb6ed8-3ab3-42ca-8c7a-43cecdc98e9c
+26 | Java Full Stack Developer | Nexorant LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/eefa493f-7663-4501-bdaa-3d6dcecde254
+27 | React Developer | Photon |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a4a56a43-2e97-45f7-8d3e-95a741eba1f7
+28 | Epicor Kinetic Functional/Technical Consultant | TrustIT LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3776db32-b43d-48a9-91bd-cbd929e531a5
+29 | UI Developer | VensIT Corp |  | * 🥳 Already applied!: https://www.dice.com/job-detail/91548a65-ce20-41a3-a002-6c7902b669e6
+30 | Senior Full Stack Developer | TekLeaders, Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8f6b5d31-6aa0-4a07-9806-1442d47fb110
+31 | Junior Java Front-End Developer (0-6 Years) | Pioneer Consulting Services LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b8345cd4-7a1a-4112-b83f-83504a03d65b
+32 | Front End Developer | Robert Half |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b8b9b6d9-57bf-458f-848d-bb657944d5cd
+33 | Mid-level Front End Developer | Maximus, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/124d9f2d-2368-4184-b022-265b0ef2ec5f
+34 | Sr. Net Developer | Sanrose Information Services Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/57280cb7-b24c-4589-b381-f4ec461bd7ca
+35 | Java Full Stack Developer | INFT Solutions inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7f1caf59-6849-44ed-bf24-53d5796ce39f
+36 | Java Full Stack Developer - Denver, CO, Phoenix, AZ, St. Louis, MO, Nashville, TN, Kansas City, KS. | TechniPros, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/136585ae-6d90-4c16-a2f6-bba91fe4a73b
+37 | Java Engineer | I-Giants |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c9aab6fb-45a8-4d4c-a3c1-6b42be9c48fa
+38 | Full Stack Engineer | Radyant Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c0f07396-c302-41a1-9b65-7194b997aad9
+39 | .NET Full-Stack Developer | Nasscomm, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e1b3b90e-d90e-4be5-9fab-d21d59e8eb3a
+40 | Java Architect | Lorvin Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4d0dee1a-c55d-4cda-935a-6268d849ffde
+41 | Java Full Stack Developer (Spring Boot / Angular) | KayDev Technology, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4cbd62bb-c2ca-475c-956c-8b1c845d321a
+42 | Senior Java Architect - Debezium CDC / No C2C / Remote | Palni Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b7a8796f-e4b5-4fac-9b6d-f4e75df99022
+43 | Java Full Stack Developer | Codeforce 360 |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e2c404b8-138b-4b66-9088-4a08f47d5dc4
+44 | Senior Java Architect | ComTec Information Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ebf1b053-681a-449d-a5de-187bbe849289
+45 | Senior Full Stack Java Developer (AI Integration) | M9 Consulting |  | * 🥳 Already applied!: https://www.dice.com/job-detail/861b69c3-79d7-444f-ba68-274affa815f8
+46 | .NET Developers | Arthur Lawrence |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a92fbdea-17c1-4ec5-90d0-7b810fcd0e8d
+47 | Senior MERN Stack Engineer – Backend Heavy + AWS | Lincoln Softtech LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/93856bf4-915a-4aa8-8524-e7689e4f3b99
+48 | Java Developer/Reverse Engineer/ElasticSearch | Mindbank Consulting Group |  | * 🥳 Already applied!: https://www.dice.com/job-detail/bd703fb4-7bf2-42cb-959a-574c56a9cf2d
+49 | Principal Software Engineer | Robert Half |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e184d355-af93-4b55-ac82-46f5f7709038
+50 | .NET Developer - Phoenix, AZ, St. Louis, MO, Nashville, TN, Kansas City, KS, Denver, CO. | TechniPros, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/bf1964f1-6158-4919-bc95-a07887ca80a2
+51 | Remote Fullstack Engineer | SR Talent Solution Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/65d95f41-a768-4743-a2f3-58210f362f4b
+52 | AI Engineer/Staff Software Engineer – Agentic Development | Noblesoft Technologies Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8300aacd-cc41-47dc-b4b4-f13d02496e73
+53 | API Integration Lead-Life & Annuity | Cyma Systems Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/32580eb9-5f52-43e4-b1d6-e5562d7d0efb
+54 | Full Stack Software Engineer | Rivago infotech inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3fdcde69-f95b-4c7e-bc7d-fc76d9c06c7e
+55 | Senior UI/UX Designer | ADG Tech Consulting, LLC. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6f1ca88e-f5fb-47de-84af-074c9ec8effd
+56 | Remote_W2 Contract AI Engineer - Agentic Development_Hoboken, NJ (Remote Role) | Amaze Systems Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ed2a4f89-9382-4b61-9fca-899cd14a7d45
+57 | Senior Software Developer - #26-20955 | U.S. Tech Solutions Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/17f0b94e-3c10-46cf-aae2-02a132b70904
+58 | Python Full Stack Engineer with Golang and Terraform | Value Technology Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/d59a0c5e-a5a2-404a-b6a3-ad58a1bcedf1
+59 | Java Full Stack | Quantom Tech LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ae9dc1f3-3509-4fed-ad30-2954faa5ef79
+60 | Golang Engineer | Ztek Consulting |  | * 🥳 Already applied!: https://www.dice.com/job-detail/97a81efa-3502-4fcd-a7c8-f8511458a211
+61 | UI Developer | INSPYR Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/2df32ce1-565f-4258-92ba-1180f8747912
+62 | .NET Developer with Workday | TechNix LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/77bf9ba3-394b-4d76-b983-19be7e73ac5f
+63 | Senior Infrastructure Engineer (Brazil or Mexico) | Tandavix llc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ed611b9f-e332-422b-b2e0-f8500675ca27
+64 | Senior .Net Developer (.NET, Node.js , Azure) | Intraedge |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c8ee02f2-eb89-4e5d-bae5-483a4770fae2
+65 | Lead .NET Developer | INSPYR Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f7b9d194-ccb7-48ad-8e5f-2a3ae999a4c0
+66 | Senior Power Platform Developer | Procentrix |  | * 🥳 Already applied!: https://www.dice.com/job-detail/053a9f1b-ef4a-4594-b788-8f56538c8a99
+67 | Sr Java Architect with Gen AI Integration | I-Link Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/9ca946d4-bc4d-4a9d-9cb0-a74ab9f631ea
+68 | Dot net Fullstack Manager | Lares IT Solutions Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b5b4cca7-c14d-4ad3-973a-43fdfd2ef5eb
+69 | Mid-Level Full Stack Developer | ACI Group, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/24cfa0d2-fdcb-4cd2-a95e-fcef469cdb36
+70 | Java 17/21+ Architect | I-Link Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0431c432-d56e-44aa-b571-b48080aa037c
+71 | Technology Portfolio Programmer Analyst (JavaScript Developer) - Remote | Genesis10 |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e7a7e306-e3c3-4e96-b74f-11810e7401e7
+72 | Inventory / Workforce Management Lead/Deployment System Lead - AMIR | Headway Tek Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b16ea660-8b6f-4527-984e-8a7d1218af78
+73 | IOS Developer | Cynosure Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/9d2523a7-f5a4-4ecc-b490-f3acc222c436
+74 | Design Engineer IV | Motion Recruitment Partners, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/09edd065-9d33-4ad7-bfec-40638cccc1f2
+75 | AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/06b4eb08-ea01-4aad-b64c-310bf7899cc6
+76 | NET Software Developer - Sunnyvale CA | Motion Recruitment Partners, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/2ba8fc07-87f0-4f51-ba70-4c67731fb8eb
+77 | Senior .NET Application & Accessibility Consultant | W2/1099 | Applicant Must Be Current IN Resident | V.L.S. Systems, Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/38d4e89a-b1c8-4a78-9211-df1fac3c2189
+78 | Senior Software Engineer – iOS | Cynosure Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/04092168-b054-4511-8c87-219d4bc6efc5
+79 | Lead Full-Stack Developer HealthEdge | QualiTest |  | * 🥳 Already applied!: https://www.dice.com/job-detail/113d4603-c94d-47f1-ab05-5da05eb057d2
+80 | Chatbot Developer - Conversational AI | Triwave Solutions Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/40145e8c-0dba-4647-8f94-b4d273073754
+81 | RPA Developer | Scigon Solutions |  | * 🥳 Already applied!: https://www.dice.com/job-detail/846ed1bd-083f-490c-94c8-86cd08d46043
+82 | Senior Application Architect  – Migration & Modernization | VDart, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/409d663d-4350-45fc-b2df-0b44870aa2ec
+83 | Sr Software Engineer with Sr Software Engineer with Audiocare and Genesys Cloud CX | CompNova |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c932c359-dacb-4000-8b4c-0b6efa0e7136
+84 | Audiocare/ Genesys Cloud CX Architect | Pull Skill Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/37616bd4-04f1-469b-ab56-cd460fea44b4
+85 | Remote Genesys Cloud | SR Talent Solution Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/09494c2c-4f8e-4499-8f21-3a3ac5a94ee6
+
+ Dice | Category: react, Location: Remote
+86 | Java Full Stack Developer - Java 21, API, React, UI, Redshift, CST OR MST Time Zones - ZL | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6246a175-ecc8-4003-8cf0-0216c42ef567
+87 | Java Full Stack Developer - Java 21, API, UI, React, Redshift, MST OR CST Time Zones | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/40f538a0-ea89-4ad4-8b88-4a022e2f2370
+88 | UI Developer (React & Node) | Headway Tek Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b98e92df-9e27-43f3-9496-d1d2bc47da3f
+89 | .NET Developer with React | SCMInnovators LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4d8a531f-df5d-4746-8bb7-95e70fe6128a
+90 | Senior Software Engineer- Full stack - NodeJS and React || W1 & C2C || Phoenix, AZ | Charlotte, NC | Plano, TX | Johnston, RI | Value Spectrum Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f1022221-3da4-443f-9dee-28b40b91c52f
+91 | Software Developer (TypeScript + React + Node.js + Python + AI/GenAI) || Remote | AKAASA Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7a6e9ba8-b06a-433c-a7fa-8fc78aee0574
+92 | UI Developer (React+Node) | HAN IT Staffing Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/751693fb-8925-4f97-829b-c54dbc33bbb3
+93 | Lead MERN Stack Engineer | INGENworks |  | * 🥳 Already applied!: https://www.dice.com/job-detail/5661868f-c0f9-4a3f-8fb2-5e0706aff611
+94 | AI Vibe Coding Engineer | VRN Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3a59e194-5e65-472b-b507-9e2d9e16cf54
+95 | Sr. Software Engineer | Yotta Systems INC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/5837dcff-ba59-4f28-bf19-240df0541306
+96 | Java Fullstack Developer | Turing IT Labs |  | * 🥳 Already applied!: https://www.dice.com/job-detail/616bd58d-efb1-4f16-90b7-dc749cb76a97
+97 | Support Engineer (NodeJS, Playwright,Java Script) | Millennium Global Technologies |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7408fc9a-b767-432f-806e-e201143654b2
+98 | ServiceNow Solution Architect / ServiceNow AI Architect (W2 Candidates) | Tech Tandem Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a6fd2d27-3b2b-494c-afe3-f014da8a6b75
+99 | Senior Full Stack Developer | Akidev Corporation |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c1eba89f-7ffc-4e38-a89a-5ca99c09c65d
+100 | Sr.Java Developer | SmartIMS Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/19a9cf7c-b606-43ba-9ce6-ba52d46d0c54
+101 | Support Engineer in Javascript and Playwright | Logiciel Solutions Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/4ffae879-775d-4b85-b8a4-3e0953e1b4b9
+
+Jobs processed: 101 | Applied: 0 | Blacklisted: 0 | Already applied: 101 | Could not apply: 0 | Duration: 8.8 min
+
+ Dice | Category: full-stack, Location: Remote
+1 | Java Full Stack Developer - Java 21, API, React, UI, Redshift, CST OR MST Time Zones - ZL | SES |  | * 🥵 Resume required - set resumePath in config.py or add a resume to your Dice profile: https://www.dice.com/job-detail/6246a175-ecc8-4003-8cf0-0216c42ef567
+2 | Java Full Stack Developer - Java 21, API, UI, React, Redshift, MST OR CST Time Zones | SES |  | * 🥵 Resume required - set resumePath in config.py or add a resume to your Dice profile: https://www.dice.com/job-detail/40f538a0-ea89-4ad4-8b88-4a022e2f2370
+3 | Full Stack Developer | BizTech Staffing |  | * 🥵 Resume required - set resumePath in config.py or add a resume to your Dice profile: https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+4 | Senior Software Engineer- Full stack - NodeJS and React || W1 & C2C || Phoenix, AZ | Charlotte, NC | Plano, TX | Johnston, RI | Value Spectrum Technologies LLC |  | * 🥵 Resume required - set resumePath in config.py or add a resume to your Dice profile: https://www.dice.com/job-detail/f1022221-3da4-443f-9dee-28b40b91c52f
+5 | Mid-Level Full Stack Developer | ACI Group, Inc. |  | * 🥵 Resume required - set resumePath in config.py or add a resume to your Dice profile: https://www.dice.com/job-detail/24cfa0d2-fdcb-4cd2-a95e-fcef469cdb36
+
+Jobs processed: 6 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 5 | Duration: 1.4 min
+
+ Dice | Category: full-stack, Location: Remote
+1 | Java Full Stack Developer - Java 21, API, React, UI, Redshift, CST OR MST Time Zones - ZL | SES |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/6246a175-ecc8-4003-8cf0-0216c42ef567
+2 | Java Full Stack Developer - Java 21, API, UI, React, Redshift, MST OR CST Time Zones | SES |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/40f538a0-ea89-4ad4-8b88-4a022e2f2370
+3 | Full Stack Developer | BizTech Staffing |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+4 | Senior Software Engineer- Full stack - NodeJS and React || W1 & C2C || Phoenix, AZ | Charlotte, NC | Plano, TX | Johnston, RI | Value Spectrum Technologies LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/f1022221-3da4-443f-9dee-28b40b91c52f
+5 | Mid-Level Full Stack Developer | ACI Group, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/24cfa0d2-fdcb-4cd2-a95e-fcef469cdb36
+6 | Senior Full Stack Java Developer (AI Integration) | M9 Consulting |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/861b69c3-79d7-444f-ba68-274affa815f8
+7 | Java Full Stack Developer | Nexorant LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/eefa493f-7663-4501-bdaa-3d6dcecde254
+8 | Full Stack Engineer, AI Systems, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/7ffbd021-3964-4cf2-9f83-79e182130261
+9 | Lead Full-Stack Developer HealthEdge | QualiTest |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/113d4603-c94d-47f1-ab05-5da05eb057d2
+10 | Full Stack Developer | Top Prospect Group |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/549ca5de-ae91-4f82-9d96-8489264f6d77
+11 | Java Full Stack Developer | Codeforce 360 |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/e2c404b8-138b-4b66-9088-4a08f47d5dc4
+12 | Hiring Consultants for Marketing & Placement | Valueprosite |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/c7abde90-7672-49ca-a021-a563894eadef
+13 | Java Full Stack | Quantom Tech LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/ae9dc1f3-3509-4fed-ad30-2954faa5ef79
+14 | Full Stack Developer | Atash Enterprises, LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/ac12cf93-4da4-41d6-a137-ffa97a220826
+15 | Full Stack Engineer | Radyant Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/c0f07396-c302-41a1-9b65-7194b997aad9
+16 | Senior Full Stack Developer | Akidev Corporation |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/c1eba89f-7ffc-4e38-a89a-5ca99c09c65d
+17 | Java Full Stack Developer | INFT Solutions inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/7f1caf59-6849-44ed-bf24-53d5796ce39f
+18 | Python FullStack Developer 5+ | TekVivid |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/dd72128e-16cd-4140-9853-2b4b53e57b92
+19 | Senior Full Stack Engineer | 804 Technology |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6c8c0e53-1516-4ff3-a355-31271ba31535
+20 | Senior Full Stack Developer | TekLeaders, Inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/8f6b5d31-6aa0-4a07-9806-1442d47fb110
+21 | Full Stack Software Engineer | Rivago infotech inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/3fdcde69-f95b-4c7e-bc7d-fc76d9c06c7e
+22 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b7f52b3a-bf23-4625-ba0b-2c5249e2fa83
+23 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/a0cb6ed8-3ab3-42ca-8c7a-43cecdc98e9c
+24 | L5 Senior Fullstack Engineer | GreyStar Systems LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/188a3ad1-0745-40b3-ab3a-41e187aa9ae1
+25 | Java Fullstack Developer | Turing IT Labs |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/616bd58d-efb1-4f16-90b7-dc749cb76a97
+26 | Java Fullstack Lead | Concent Software Solution LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/f2d886bb-25e7-4c4c-89b2-4ac27fbc7b96
+27 | Python Full Stack Engineer with Golang and Terraform | Value Technology Inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/d59a0c5e-a5a2-404a-b6a3-ad58a1bcedf1
+28 | Full Stack Java Developer | QUANTUM TECHNOLOGIES LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/6840e961-003a-46b5-a1c8-e4e32ef0d7d0
+29 | .NET Full-Stack Developer | Nasscomm, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/e1b3b90e-d90e-4be5-9fab-d21d59e8eb3a
+30 | Full Stack Developer (W2 Contract) | Modern Agile Technologies, LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/788ffadf-26b6-4ff3-877c-587b1811dc9d
+31 | Java 21 Developer (Khafka, SQL, AWS) | SES |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/9c0fb6f2-3e47-4449-935a-14a10247b427
+
+Jobs processed: 32 | Applied: 13 | Blacklisted: 0 | Already applied: 1 | Could not apply: 17 | Duration: 16.4 min
+
+ Dice | Category: full-stack, Location: Remote
+1 | Java Full Stack Developer - Java 21, API, React, UI, Redshift, CST OR MST Time Zones - ZL | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6246a175-ecc8-4003-8cf0-0216c42ef567
+2 | Java Full Stack Developer - Java 21, API, UI, React, Redshift, MST OR CST Time Zones | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/40f538a0-ea89-4ad4-8b88-4a022e2f2370
+3 | Full Stack Developer | BizTech Staffing |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+4 | Senior Software Engineer- Full stack - NodeJS and React || W1 & C2C || Phoenix, AZ | Charlotte, NC | Plano, TX | Johnston, RI | Value Spectrum Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f1022221-3da4-443f-9dee-28b40b91c52f
+5 | Mid-Level Full Stack Developer | ACI Group, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/24cfa0d2-fdcb-4cd2-a95e-fcef469cdb36
+6 | Senior Full Stack Java Developer (AI Integration) | M9 Consulting |  | * 🥳 Already applied!: https://www.dice.com/job-detail/861b69c3-79d7-444f-ba68-274affa815f8
+7 | Java Full Stack Developer | Nexorant LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/eefa493f-7663-4501-bdaa-3d6dcecde254
+8 | Full Stack Engineer, AI Systems, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7ffbd021-3964-4cf2-9f83-79e182130261
+9 | Lead Full-Stack Developer HealthEdge | QualiTest |  | * 🥳 Already applied!: https://www.dice.com/job-detail/113d4603-c94d-47f1-ab05-5da05eb057d2
+10 | Full Stack Developer | Top Prospect Group |  | * 🥳 Already applied!: https://www.dice.com/job-detail/549ca5de-ae91-4f82-9d96-8489264f6d77
+11 | Java Full Stack Developer | Codeforce 360 |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e2c404b8-138b-4b66-9088-4a08f47d5dc4
+12 | Hiring Consultants for Marketing & Placement | Valueprosite |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c7abde90-7672-49ca-a021-a563894eadef
+13 | Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home - M | Next Step Systems |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/61c9745b-2036-4750-8c53-f90c41afb193
+14 | Java Full Stack | Quantom Tech LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ae9dc1f3-3509-4fed-ad30-2954faa5ef79
+15 | Full Stack Developer | Atash Enterprises, LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ac12cf93-4da4-41d6-a137-ffa97a220826
+16 | Full Stack Engineer | Radyant Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c0f07396-c302-41a1-9b65-7194b997aad9
+17 | Senior Full Stack Developer | Akidev Corporation |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c1eba89f-7ffc-4e38-a89a-5ca99c09c65d
+18 | Java Full Stack Developer | INFT Solutions inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7f1caf59-6849-44ed-bf24-53d5796ce39f
+19 | Python FullStack Developer 5+ | TekVivid |  | * 🥳 Already applied!: https://www.dice.com/job-detail/dd72128e-16cd-4140-9853-2b4b53e57b92
+20 | Senior Full Stack Engineer | 804 Technology |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6c8c0e53-1516-4ff3-a355-31271ba31535
+21 | Senior Full Stack Developer | TekLeaders, Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8f6b5d31-6aa0-4a07-9806-1442d47fb110
+22 | Full Stack Software Engineer | Rivago infotech inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3fdcde69-f95b-4c7e-bc7d-fc76d9c06c7e
+23 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b7f52b3a-bf23-4625-ba0b-2c5249e2fa83
+24 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a0cb6ed8-3ab3-42ca-8c7a-43cecdc98e9c
+25 | L5 Senior Fullstack Engineer | GreyStar Systems LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/188a3ad1-0745-40b3-ab3a-41e187aa9ae1
+26 | Java Fullstack Developer | Turing IT Labs |  | * 🥳 Already applied!: https://www.dice.com/job-detail/616bd58d-efb1-4f16-90b7-dc749cb76a97
+27 | Java Fullstack Lead | Concent Software Solution LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f2d886bb-25e7-4c4c-89b2-4ac27fbc7b96
+28 | Python Full Stack Engineer with Golang and Terraform | Value Technology Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/d59a0c5e-a5a2-404a-b6a3-ad58a1bcedf1
+29 | Full Stack Java Developer | QUANTUM TECHNOLOGIES LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6840e961-003a-46b5-a1c8-e4e32ef0d7d0
+30 | .NET Full-Stack Developer | Nasscomm, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e1b3b90e-d90e-4be5-9fab-d21d59e8eb3a
+31 | Java 21 Developer (Khafka, SQL, AWS) | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/9c0fb6f2-3e47-4449-935a-14a10247b427
+32 | Full Stack Application Developer | Xpertiz Inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/a3135c0b-a14a-4403-b7c6-4b227417553e
+33 | Java Full Stack Developer | Zyxware Technologies |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/e90b3a79-72c1-4568-b0e8-effe9e9eccc1
+34 | Java Full Stack Developer - Chicago, IL, Minneapolis, MN, Detroit, MI, Madison, WI, Columbus, OH. | TechniPros, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/7c076ffb-45f3-4eee-8191-068a1bf1bcc8
+35 | Full-Stack ColdFusion Engineer | GlobalLogic Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/c618c627-21c9-47f8-a99f-200c20eb9403
+36 | Looking for Google Cloud Platform Support - Full stack Engineer in Richmond, VA (Remote) | Saksoft |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/462473c9-58db-4ff8-b9e6-3a2ad20692af
+37 | Lead Java Fullstack Developer/Architect- (USC) (GC)-W2 Only- Hybrid | ISite Technologies Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/210fa573-9873-4b0a-b2ba-a9c5221b7345
+38 | Fullstack Developer with Workday | TechNix LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/087bf7e5-d41b-4025-9cec-6fec35001e1f
+39 | Sr Full Stack Software Engineer (Front End Focused - Angular/TypeScript) | Patriot Talent Solutions |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/788bae4e-4a21-49d6-994b-696b87e61f6b
+40 | Dot Net Full Stack Developer - Minneapolis, MN, Detroit, MI, Madison, WI, Columbus, OH, Chicago, IL. | TechniPros, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/1b98dddc-d4d4-4816-ad42-5facd35ba712
+41 | Java Full Stack Developer (Spring Boot / Angular) | KayDev Technology, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/4cbd62bb-c2ca-475c-956c-8b1c845d321a
+42 | Dot net Fullstack Manager | Lares IT Solutions Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b5b4cca7-c14d-4ad3-973a-43fdfd2ef5eb
+43 | Java Full Stack Developer - Denver, CO, Phoenix, AZ, St. Louis, MO, Nashville, TN, Kansas City, KS. | TechniPros, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/136585ae-6d90-4c16-a2f6-bba91fe4a73b
+44 | Senior Manager – Full Stack Development | Lares IT Solutions Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/acb33155-2d9a-460c-b7d9-5401fdaf22a1
+45 | Remote Fullstack Engineer | SR Talent Solution Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/65d95f41-a768-4743-a2f3-58210f362f4b
+46 | Manager, Full Stack Development – Python / Go / Java, AWS (Healthcare Claims) | Bramkas Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/c2d05e05-c42b-4108-99d5-2f777f53bad7
+47 | Senior Full Stack .NET Developer - California or Hawaii | AIMS |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/764e2eef-9c85-4771-8ca4-23d2bf17d6e7
+48 | Senior Manager, Full Stack Development – Python / Go / Java, AWS (Healthcare Claims) | Bramkas Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/7f16dcf8-2698-4afa-a257-0b46b747e23c
+49 | Java Full Stack Developer With Angular | MOONITSolutions Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/76da3fd1-3eb3-413e-abdf-62ccae28d4a5
+50 | Python Developer / Software Engineer / Full Stack Developer / Backend Engineer | JC CORPORATIONS |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/e7aa2f08-b2e8-4914-a7cc-0292310be061
+51 | .NET Developers | Arthur Lawrence |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/a92fbdea-17c1-4ec5-90d0-7b810fcd0e8d
+52 | Product positions with Healthcare Payor products | InfoPeople Corp |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/410f2deb-281a-4100-ba5f-c36a59f4e690
+53 | Software Developers | 4 Consulting Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/0596ea78-c4cf-4e69-811d-cfec9f11945c
+54 | Software Developers | 4 Consulting Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/2b0b4bcc-4c64-4350-90ec-70128b643f80
+55 | Sr. Net Developer | Sanrose Information Services Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/57280cb7-b24c-4589-b381-f4ec461bd7ca
+56 | Integrations Engineer II (API) | System One |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/107da8fa-5df2-4f06-b6d0-11a7c0c77e14
+57 | C#.NET Developer with Trading And Capital Market Exp | ENXRA AI INC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/29173da8-1ccb-4eb1-a66a-2eb00fb42a8d
+58 | Sr. Software Engineer | Yotta Systems INC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/5837dcff-ba59-4f28-bf19-240df0541306
+59 | Site Reliability Engineer | Visionary Innovative Technology Solutions |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/3d978761-5522-497c-b899-1e97107c0aef
+60 | Lead Developer (Java+ React) Only W2 (Hybrid) | Nasscomm, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/de716917-b01e-46b2-abb8-055159cfd6ac
+61 | C++ distributed systems developer | Laiba Technologies LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/69a5a108-b162-4e9d-bbf0-c21f658cb200
+62 | Elixir Developer (Phoenix + LiveView focus) | Spruce Technology Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/72a7bf1c-c059-4824-ac46-464ebc55947c
+63 | Elixir Developer (Phoenix + LiveView focus) | MASH Pro Tech |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/8c40e3c9-e3cf-4a4f-82ff-91d0667852db
+64 | Software Engineer | Motion Recruitment Partners, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/a9324d5c-5fd3-493d-9f54-e789d487450c
+65 | Java Architect | Lorvin Technologies |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/4d0dee1a-c55d-4cda-935a-6268d849ffde
+66 | C++ Senior Developer | HPTech Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/512a8299-1515-498a-a7fb-1d8804872764
+67 | Senior Java Architect - Debezium CDC / No C2C / Remote | Palni Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b7a8796f-e4b5-4fac-9b6d-f4e75df99022
+68 | Senior Java Architect | ComTec Information Systems |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/ebf1b053-681a-449d-a5de-187bbe849289
+69 | Senior .NET Application & Accessibility Consultant | W2/1099 | Applicant Must Be Current IN Resident | V.L.S. Systems, Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/38d4e89a-b1c8-4a78-9211-df1fac3c2189
+70 | Golang Engineer | Ztek Consulting |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/97a81efa-3502-4fcd-a7c8-f8511458a211
+71 | Principal AI Enablement Coach/Trainer | Apetan Consulting |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/d5fa8118-62c8-4f48-b82a-79daf6468ddf
+72 | Forward Deployed Engineer / Technical Lead (Supply Chain, Customer Portals & Logistics Systems) - W2 | Info Dinamica Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/3f173e0d-20c2-437c-afa7-5dff574cd0df
+73 | Sr Java Architect with Gen AI Integration | I-Link Solutions |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/9ca946d4-bc4d-4a9d-9cb0-a74ab9f631ea
+74 | Principal Software Engineer | Robert Half |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/e184d355-af93-4b55-ac82-46f5f7709038
+75 | Data Engineer | FutureTech Consultants LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/1a23661d-a0c2-4982-a3c5-929520851f19
+76 | Forward Deployed Engineer | CivilSoft Technolgies Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/f5d1a60a-513e-4b9d-bc92-adab62039cc9
+77 | Java 17/21+ Architect | I-Link Solutions |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/0431c432-d56e-44aa-b571-b48080aa037c
+78 | software engineer | BMR Infotek |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/cabc14e9-fc13-42a1-adf5-e9f04ec8bc4c
+79 | Remote Software Engineer | TURING ENTERPRISES, INC. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/62f3bb76-1ca3-4d6d-ba2b-8c6f96c01dbf
+80 | Remote Software Developer | TURING ENTERPRISES, INC. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/ab1e429b-4837-405e-947e-971a53deaf48
+81 | AI Vibe Coding Engineer | VRN Technologies |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/3a59e194-5e65-472b-b507-9e2d9e16cf54
+82 | Remote_W2 Contract AI Engineer - Agentic Development_Hoboken, NJ (Remote Role) | Amaze Systems Inc |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/ed2a4f89-9382-4b61-9fca-899cd14a7d45
+83 | 100% Remote | Software Architect (Drupal Lead + Architecture + Infrastructure + Kafka + DevSecOps) | Pioneer Corporate Services Inc |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/52465184-7ed8-4eab-a463-0f6113233d92
+84 | Security Architect - In Person Interview - Remote - W2 Only | MSYS Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b7851267-c7de-4445-a10d-a313da732b25
+85 | Senior Cybersecurity Automation & Integration Engineer - REMOTE (W2 ONLY) | Chandra Technologies, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/6dddfc43-d56b-4037-80a2-02de1de89612
+
+ Dice | Category: frontend, Location: Remote
+86 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/8a72cf0e-af66-437a-abe1-e5fac68f8cac
+87 | Remote UI/Front End Engineer | 804 Technology |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/92b81af4-5d9c-4a42-81ee-5a05040e091a
+88 | Software Front End Development Engineer | Openmind Technologies |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/998c0128-33f6-44a1-8d01-ef8f03f2c8d6
+89 | Jr. Front-End Developer | cyberThink, Inc. |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/46dda130-0c6f-4d84-ac36-a5e7113c65c3
+90 | Senior Front-End Agentic AI Engineer | LTS |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/103cf371-0c13-4be1-8e56-21d6fc470dae
+91 | UI Developer – React.js / Node.js | Infosat IT Services LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/4ad082d2-d76f-4d2d-9433-decf5c880b6f
+92 | Senior .NET Developer | Sagarsoft |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/5096c37c-6fec-46f9-b4f2-1e7cd989d4f9
+93 | Platform Design Systems Lead (Remote) | Tandym Tech |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/f8b1c379-09b1-47c6-b192-0b8812e98c46
+94 | React Developer | Photon |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/a4a56a43-2e97-45f7-8d3e-95a741eba1f7
+95 | Epicor Kinetic Functional/Technical Consultant | TrustIT LLC |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/3776db32-b43d-48a9-91bd-cbd929e531a5
+96 | UI Developer | VensIT Corp |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/91548a65-ce20-41a3-a002-6c7902b669e6
+97 | Junior Java Front-End Developer (0-6 Years) | Pioneer Consulting Services LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b8345cd4-7a1a-4112-b83f-83504a03d65b
+98 | Front End Developer | Robert Half |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/b8b9b6d9-57bf-458f-848d-bb657944d5cd
+99 | Mid-level Front End Developer | Maximus, Inc. |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/124d9f2d-2368-4184-b022-265b0ef2ec5f
+100 | Senior MERN Stack Engineer – Backend Heavy + AWS | Lincoln Softtech LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/93856bf4-915a-4aa8-8524-e7689e4f3b99
+101 | Java Developer/Reverse Engineer/ElasticSearch | Mindbank Consulting Group |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/bd703fb4-7bf2-42cb-959a-574c56a9cf2d
+102 | .NET Developer - Phoenix, AZ, St. Louis, MO, Nashville, TN, Kansas City, KS, Denver, CO. | TechniPros, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/bf1964f1-6158-4919-bc95-a07887ca80a2
+
+Jobs processed: 102 | Applied: 24 | Blacklisted: 0 | Already applied: 30 | Could not apply: 48 | Duration: 39.6 min
+
+ Dice | Category: full-stack, Location: Remote
+1 | Java Full Stack Developer - Java 21, API, React, UI, Redshift, CST OR MST Time Zones - ZL | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6246a175-ecc8-4003-8cf0-0216c42ef567
+2 | Java Full Stack Developer - Java 21, API, UI, React, Redshift, MST OR CST Time Zones | SES |  | * 🥳 Already applied!: https://www.dice.com/job-detail/40f538a0-ea89-4ad4-8b88-4a022e2f2370
+3 | Full Stack Developer | BizTech Staffing |  | * 🥳 Already applied!: https://www.dice.com/job-detail/0d1b80eb-d976-4d41-af16-1c8bd8bee78d
+4 | Senior Software Engineer- Full stack - NodeJS and React || W1 & C2C || Phoenix, AZ | Charlotte, NC | Plano, TX | Johnston, RI | Value Spectrum Technologies LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/f1022221-3da4-443f-9dee-28b40b91c52f
+5 | Mid-Level Full Stack Developer | ACI Group, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/24cfa0d2-fdcb-4cd2-a95e-fcef469cdb36
+6 | Senior Full Stack Java Developer (AI Integration) | M9 Consulting |  | * 🥳 Already applied!: https://www.dice.com/job-detail/861b69c3-79d7-444f-ba68-274affa815f8
+7 | Java Full Stack Developer | Nexorant LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/eefa493f-7663-4501-bdaa-3d6dcecde254
+8 | Full Stack Engineer, AI Systems, Artificial Intelligence (AI) Required, Work From Home - G | Next Step Systems |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7ffbd021-3964-4cf2-9f83-79e182130261
+9 | Lead Full-Stack Developer HealthEdge | QualiTest |  | * 🥳 Already applied!: https://www.dice.com/job-detail/113d4603-c94d-47f1-ab05-5da05eb057d2
+10 | Full Stack Developer | Top Prospect Group |  | * 🥳 Already applied!: https://www.dice.com/job-detail/549ca5de-ae91-4f82-9d96-8489264f6d77
+11 | Java Full Stack Developer | Codeforce 360 |  | * 🥳 Already applied!: https://www.dice.com/job-detail/e2c404b8-138b-4b66-9088-4a08f47d5dc4
+12 | Hiring Consultants for Marketing & Placement | Valueprosite |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c7abde90-7672-49ca-a021-a563894eadef
+13 | Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home - M | Next Step Systems |  | * 🥳 Just Applied to this job (confirmed on Dice): https://www.dice.com/job-detail/61c9745b-2036-4750-8c53-f90c41afb193
+14 | Java Full Stack | Quantom Tech LLC |  | * 🥳 Already applied!: https://www.dice.com/job-detail/ae9dc1f3-3509-4fed-ad30-2954faa5ef79
+15 | Java Fullstack | Atash Enterprises, LLC |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.dice.com/job-detail/ab56f08b-ca2e-4dfc-a12f-93f9b7137f4b
+16 | Full Stack Engineer | Radyant Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c0f07396-c302-41a1-9b65-7194b997aad9
+17 | Senior Full Stack Developer | Akidev Corporation |  | * 🥳 Already applied!: https://www.dice.com/job-detail/c1eba89f-7ffc-4e38-a89a-5ca99c09c65d
+18 | Java Full Stack Developer | INFT Solutions inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/7f1caf59-6849-44ed-bf24-53d5796ce39f
+19 | Python FullStack Developer 5+ | TekVivid |  | * 🥳 Already applied!: https://www.dice.com/job-detail/dd72128e-16cd-4140-9853-2b4b53e57b92
+20 | Senior Full Stack Engineer | 804 Technology |  | * 🥳 Already applied!: https://www.dice.com/job-detail/6c8c0e53-1516-4ff3-a355-31271ba31535
+21 | Senior Full Stack Developer | TekLeaders, Inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/8f6b5d31-6aa0-4a07-9806-1442d47fb110
+22 | Full Stack Software Engineer | Rivago infotech inc |  | * 🥳 Already applied!: https://www.dice.com/job-detail/3fdcde69-f95b-4c7e-bc7d-fc76d9c06c7e
+23 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/b7f52b3a-bf23-4625-ba0b-2c5249e2fa83
+24 | Full Stack FHIR Engineer | Impelsys, Inc. |  | * 🥳 Already applied!: https://www.dice.com/job-detail/a0cb6ed8-3ab3-42ca-8c7a-43cecdc98e9c
+
+Jobs processed: 24 | Applied: 1 | Blacklisted: 0 | Already applied: 22 | Could not apply: 1 | Duration: 3.0 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Senior Software Engineer: Front-End | LogicGate | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=10&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack
+2 | Senior Full Stack Engineer | Numentica LLC | Cypress, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=10&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack
+3 | Software Engineer - New Grad | ZipRecruiter | Santa Monica, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack
+4 | Full-Stack Engineer | Clerkie | Los Angeles, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack
+
+Jobs processed: 4 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 4 | Duration: 8.2 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Senior Software Engineer: Front-End | LogicGate | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=10&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=HYpSaun0GvnjLFtA_GxUhA
+2 | Senior Full Stack Engineer | Numentica LLC | Cypress, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=10&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=HYpSaun0GvnjLFtA_GxUhA
+3 | Software Engineer - New Grad | ZipRecruiter | Santa Monica, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack&lk=0k-xIZM_TS1WrzoC2K54kQ
+4 | Full-Stack Engineer | Clerkie | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack&lk=W-NCP2fb9ELN44r0A1qdpg
+
+ ZipRecruiter | Category: frontend, Location: Remote
+5 | Video Editor Expert - Remote | YO AI Labs | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=10&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=pJzpSZKpKe-1m5skRl1q2w
+
+Jobs processed: 6 | Applied: 2 | Blacklisted: 0 | Already applied: 0 | Could not apply: 3 | Duration: 3.4 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Sr. Full-Stack Software Engineer - Remote | YO AI Labs | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=lZgmvjBN7KW-mwvmz2hS3w
+      ❓ what is your desired pay? -> I'm flexible and open to a competitive offer within your bud
+      ❓ do you require visa sponsorship to work in the united states (e.g., h-1b, tn, o-1, e-3) no -> No
+      ❓ have you ever been employed by astrana health or any of its owned, affiliated, or acquired -> Yes
+      ❓ âi waive the receipt of a copy of any public record described in the paragraph above.â -> Yes
+      ❓ were you referred to astrana health? -> Yes
+      ❓ Hispanic or Latino -> Hispanic or Latino
+2 | Senior Software Engineer | Astrana Health, Inc. | Alhambra, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=mazXD9YLGPeOk1zPPJMplg
+3 | Technical Recruiter (6-month Contract) | Prenuvo | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=mazXD9YLGPeOk1zPPJMplg
+4 | Senior Software Engineer: Front-End | LogicGate | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=mazXD9YLGPeOk1zPPJMplg
+
+Jobs processed: 4 | Applied: 1 | Blacklisted: 0 | Already applied: 0 | Could not apply: 3 | Duration: 3.4 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+
+ ZipRecruiter | Category: frontend, Location: Remote
+1 | Frontend Engineer Remote | YO AI Labs | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=ipn2iUONf-G9K5v1ydgFAQ
+2 | Senior Software Engineer: Front-End | LogicGate | Los Angeles, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=HYpSaun0GvnjLFtA_GxUhA
+      ❓ what is your desired pay? -> 120000
+      ❓ do you require visa sponsorship to work in the united states (e.g., h-1b, tn, o-1, e-3) no -> No
+      ❓ have you ever been employed by astrana health or any of its owned, affiliated, or acquired -> No
+      ❓ âi waive the receipt of a copy of any public record described in the paragraph above.â -> Yes
+      ❓ were you referred to astrana health? -> No
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+3 | Senior Software Engineer | Astrana Health, Inc. | Alhambra, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=mazXD9YLGPeOk1zPPJMplg
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+      ❓ Hispanic or Latino -> 
+4 | Technical Recruiter (6-month Contract) | Prenuvo | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=mazXD9YLGPeOk1zPPJMplg
+5 | Senior Fullstack Engineer, Commure Pro | Commure | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=mazXD9YLGPeOk1zPPJMplg
+      ❓ preferred first name​ -> Paula
+      ❓ preferred last name -> Carvajal
+      ❓ city -> New York, NY
+      ❓ zip code -> 10011
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ what is your desired salary? -> 120000
+      ❓ gender -> Decline to Self Identify
+      ❓ ethnicity -> Decline to Self Identify
+      ❓ race -> Decline to Self Identify
+      ❓ veteran status -> Decline to Self Identify
+      ❓ country -> United States
+      ❓ state -> Alaska
+      ❓ are you subject to a noncompete agreement that may impact your ability to work at legalzoo -> No
+      ❓ have you worked for legalzoom or any of its affiliates in the past? -> No
+      ❓ Yes -> Yes
+6 | Visual Designer | LegalZoom | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=qiV-iiuD-NO0LiVoSZ0JJw
+7 | Cinematic Technical Animator | side | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=qiV-iiuD-NO0LiVoSZ0JJw
+8 | Roblox Developer | Sawhorse Productions | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=qiV-iiuD-NO0LiVoSZ0JJw
+9 | Lead Animator - Central Art Team | Snail Games USA | Beverly Hills, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=qiV-iiuD-NO0LiVoSZ0JJw
+* 🥵 Error on job 10: Message: invalid session id; For documentation on this error, please visit: http
+
+Jobs processed: 10 | Applied: 2 | Blacklisted: 0 | Already applied: 0 | Could not apply: 8 | Duration: 6.1 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Sr. Full-Stack Software Engineer - Remote | YO AI Labs | Los Angeles, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=lZgmvjBN7KW-mwvmz2hS3w
+2 | Senior Software Engineer | Astrana Health, Inc. | Alhambra, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=mazXD9YLGPeOk1zPPJMplg
+      ❓ preferred first name -> Paula
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ please indicate which time zone you are located in -> Eastern Time (ET) - New York, NY
+      ❓ what is your earliest possible start date? -> I can start within two weeks.
+      ❓ are you legally authorized to work in the united states without sponsorship now or in the  -> Yes
+      ❓ by applying for this role, you understand and agree that progression in the recruitment pr -> Yes
+      ❓ by submitting this online application, i acknowledge that prenuvo conducts background chec -> Yes
+      ❓ i acknowledge that participation in the interview process may involve access to confidenti -> Yes
+      ❓ by selecting yes, i consent to receive recruiting sms messages from prenuvo at the phone n -> Yes
+      ❓ do you identify as transgender? -> I don't wish to answer
+      ❓ do you have a disability or chronic condition (physical, visual, auditory, cognitive, ment -> I don't wish to answer
+      ❓ are you a veteran or active member of the united states armed forces? -> I don't wish to answer
+      ❓ Man -> 4014129005
+      ❓ Black or of African descent -> 4014119005
+      ❓ Asexual -> 4014099005
+3 | Technical Recruiter (6-month Contract) | Prenuvo | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=7-sH2L60h1PRvPk3iAdpEQ
+4 | Senior Software Engineer: Front-End | LogicGate | Los Angeles, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=HYpSaun0GvnjLFtA_GxUhA
+      ❓ LinkedIn -> Other Job Boards
+5 | Senior Fullstack Engineer, Commure Pro | Commure | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=2dKHPz9yEvGyhrjtlJv-jA
+      ❓ what is your java expertise on a 1-5 scale (5 being expert)? -> 3
+      ❓ please specify the type of sponsorship you will require, alongside any deadlines we should -> No
+      ❓ what is your backend / frontend split? -> 50/50 split
+      ❓ will you now or in the future require sponsorship to work in the us? -> No
+      ❓ LinkedIn -> Other Job Boards
+6 | Senior Full Stack Engineer | Numentica LLC | Cypress, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=full-stack&lk=2dKHPz9yEvGyhrjtlJv-jA
+7 | Software Engineer - New Grad | ZipRecruiter | Santa Monica, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack&lk=qyrcFhEWi_S9Wc7YoD6MEg
+      ❓ phone -> 3054649260
+      ❓ current title -> Senior AI & Software Engineer
+      ❓ current company -> Streamnova Media
+8 | Senior Full Stack Software Engineer | twenty80.io | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack&lk=k9PhoCmaHxAn0nixlua3YA
+9 | Full Stack Software Engineer - Build Reliability | Galaxy Technology Hires LLC | Inglewood, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=full-stack&lk=nHJ3Jcmicl0hgc4kjNQ53Q
+10 | Java Full Stack Developer | Tror AI for everyone | Westlake Village, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Westlake+Village%2CCA&search=full-stack&lk=lZgmvjBN7KW-mwvmz2hS3w
+      ❓ Yes -> yes
+      ❓ Yes -> 1
+      ❓ Yes -> 1
+      ❓ Yes -> 1
+11 | Full Stack Developer | Apposite Technologies LLC | Encino, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Westlake+Village%2CCA&search=full-stack&lk=xnZTJJSUfXv1oSqOdIoRAg
+
+ ZipRecruiter | Category: frontend, Location: Remote
+12 | Frontend Engineer Remote | YO AI Labs | Los Angeles, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=ipn2iUONf-G9K5v1ydgFAQ
+      ❓ preferred first name​ -> Paula
+      ❓ preferred last name -> Carvajal
+      ❓ address -> New York, NY 10011
+      ❓ city -> New York
+      ❓ zip code -> 10011
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ what is your desired salary? -> 120000
+      ❓ gender -> Decline to Self Identify
+      ❓ ethnicity -> Decline to Self Identify
+      ❓ race -> Decline to Self Identify
+      ❓ veteran status -> Decline to Self Identify
+      ❓ country -> United States
+      ❓ state -> Alaska
+      ❓ are you subject to a noncompete agreement that may impact your ability to work at legalzoo -> No
+      ❓ have you worked for legalzoom or any of its affiliates in the past? -> No
+      ❓ Yes -> Yes
+13 | Visual Designer | LegalZoom | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=qiV-iiuD-NO0LiVoSZ0JJw
+      ❓ first name -> Paula
+      ❓ last name -> Carvajal
+      ❓ email address -> asdsa@gmail.com
+      ❓ address -> New York, NY 10011
+      ❓ city -> New York
+      ❓ state -> New York
+      ❓ postal -> 10011
+      ❓ phone -> 3054649260
+      ❓ cover letter -> I'm a Senior AI & Full-Stack Software Engineer with 6+ years
+      ❓ linkedin profile url -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ website, blog or portfolio -> https://github.com/paulacarvajal
+      ❓ desired salary -> 120000
+      ❓ earliest start date? -> I can start within two weeks.
+14 | U.S., Senior Character Animators | Zoic Studios | Santa Monica, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+15 | Director, CRO & Subscription | Hi-Altitude Brands | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+16 | Inventory / Workforce Management Lead/Deployment System Lead - AMIR - R01570963 | Brillio | Alhambra, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+17 | Director of Patient Access | The Wilshire Group | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+18 | Prointegrate LLC | Prointegrate LLC | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+19 | Front End Web Developer | Nastech Global | Alhambra, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+20 | Website Developer | Dream Three | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+21 | Full-Stack Engineer | Wintermeyer Ventures | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=frontend&lk=h7eTHIwQd2GjDfiM90ebdg
+
+ ZipRecruiter | Category: react, Location: Remote
+      ❓ what about this job appeals to you? -> I have 6+ years of full-stack and AI engineering experience 
+      ❓ on a scale of 10 (ten being expert) how would you rank your proficency in a) typescript b) -> 3
+      ❓ what city do you currently live? -> New York
+      ❓ what is your current mode of transportation? -> I have 6+ years of full-stack and AI engineering experience 
+      ❓ what skills do you have that makes you most qualified for this job? -> Python, Java, Ruby, JavaScript, TypeScript, SQL; React, Angu
+      ❓ most software programmers have no interest in working in the field, stationed at various c -> I'm excited about FanFixApp, LLC because the Senior Mobile E
+22 | Senior Mobile Engineer (React Native) | FanFixApp, LLC | West Hollywood, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=9Cd0sQSXHprEbm_ryWgVTA
+23 | Jr. Full Stack Engineer | Fuser | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=9Cd0sQSXHprEbm_ryWgVTA
+24 | QA Engineer (Automation) [213373] | Aquent Talent | Culver City, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=RG4bfcHeI8vU0pzqkLT5FA
+25 | Front-End/UI Engineer - Egofold (Junior to Mid-Level) | Snail Games USA | Culver City, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=gC761-OxBxtLYUNibsgvgg
+26 | Senior Full-Stack Developers | Bright Mind Solutions LLC | Culver City, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=h1MUIgPKBaSnURitEfLT3g
+27 | AI Software Engineer | LLMs, RAG & Private AI - Interview Today - Start Tomorrow | Meme House LA, Inc | Beverly Hills, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=QGdqoqBAKGqs_ocIcudgDQ
+      ❓ linkedin -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ current location -> New York, NY 10011
+      ❓ gender -> Decline to self-identify
+      ❓ race -> Decline to self-identify
+      ❓ veteran status -> Decline to self-identify
+28 | Full Stack Software Engineer | Hop | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=L_bGdwf19dJcgO3MiSzKHQ
+      ❓ phone -> 3054649260
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ current title -> Senior AI & Software Engineer
+      ❓ current company -> Streamnova Media
+      ❓ what are your salary expectations? -> 120000
+      ❓ this role is located in los angeles, and is also us/canada remote. would you be able to wo -> Yes
+29 | Fullstack Engineer | Hired Recruiters | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=rB3yZGkiGt38NydYNcL_lg
+30 | Lead AI Engineer (10-12 onsite a month) | Calance US | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react&lk=gS-SbCUTlhmHDvaa4PNCBg
+
+ ZipRecruiter | Category: typescript, Location: Remote
+      ❓ phone number -> 3054649260
+      ❓ school -> University of Louisville
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ porfolio or website link -> https://github.com/paulacarvajal
+      ❓ what is your  salary expectation? -> 120000
+      ❓ are you able to work to our core meeting hours of 10 am to 5 pm pacific time? -> Yes
+      ❓ are you authorized to work in the u.s. or canada? -> Yes
+      ❓ will you now, or in the future, require visa sponsorship to legally work in the u.s. or ca -> No
+      ❓ are you at least 18 years old? -> Yes
+      ❓ have you worked at thatgamecompany before? -> No
+31 | Staff Systems Software Engineer | thatgamecompany | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+32 | Product Designer | Hired Recruiters | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+33 | Senior Product Designer | FloQast | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+34 | Prointegrate LLC | Prointegrate LLC | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+35 | Senior Software Engineer | Astrana Health, Inc. | Alhambra, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+36 | REMOTE - Cloud Engineer II: 26-00177 | Platinum Resource Group | Newport Beach, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+37 | Senior Software Engineer - AI Training Projects | Andrews Recruitment Group | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+38 | Senior/Staff Software Engineer | The French Sourcer | Santa Monica, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=typescript&lk=BxRgBB4xiZ9RvlKV-Pnx7A
+
+ ZipRecruiter | Category: javascript, Location: Remote
+39 | Research Crawling Engineer | Wintermeyer Ventures | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=javascript&lk=Qns97p7TdyTCMIs7qbVBXA
+      ❓ what is your expected annual base salary? -> 120000
+      ❓ how many years of experience you have with playwright? -> 0
+      ❓ are you legally authorized to work in canada or the united states? -> Yes
+      ❓ do you need, or will you need in the future, any immigration related support or visa spons -> No
+      ❓ this role has a hybrid work arrangement, with a minimum of 3 days per week in the office.  -> Yes
+      ❓ Yes -> Y
+40 | Sr. QA Engineer | Rightsline Inc | El Segundo, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=javascript&lk=k95yGehrCirsLS36j5rkkw
+41 | Prointegrate LLC | Prointegrate LLC | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=javascript&lk=k95yGehrCirsLS36j5rkkw
+42 | AI Software Engineer | LLMs, RAG & Private AI - Interview Today - Start Tomorrow | Meme House LA, Inc | Beverly Hills, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=javascript&lk=k95yGehrCirsLS36j5rkkw
+
+ ZipRecruiter | Category: vue, Location: Remote
+
+ ZipRecruiter | Category: python, Location: Remote
+      ❓ preferred first name -> Paula
+      ❓ why reformation? why are you interested in this role? -> I'm excited about Reformation because the AI Operations Anal
+      ❓ do you have hands-on, ai-native proficiency with llm tools and apis (openai api, anthropic -> 3
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ can you commit to a hybrid working model from our la offices? -> Yes
+      ❓ do you require relocation? -> No
+      ❓ are you at least 18 years or older? -> Yes
+      ❓ will you now or in the future require employment visa sponsorship? -> No
+      ❓ veteranstatus -> I don't wish to answer
+      ❓ race -> Decline To Self Identify
+      ❓ gender -> Decline To Self Identify
+      ❓ do you identify as transgender? -> I don't wish to answer
+      ❓ do you have a disability or chronic condition (physical, visual, auditory, cognitive, ment -> I don't wish to answer
+      ❓ are you a veteran or active member of the united states armed forces? -> I don't wish to answer
+      ❓ Man -> 81098
+      ❓ Black or of African descent -> 81093
+      ❓ Asexual -> 81082
+43 | AI Operations Analyst, Growth | Reformation | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=kiKRFaxpfVX1f1ZHhQ0z0g
+      ❓ phone number -> 3054649260
+      ❓ school -> University of Louisville
+      ❓ linkedin profile -> https://www.linkedin.com/in/paulafcarvajal
+      ❓ porfolio or website link -> https://github.com/paulacarvajal
+      ❓ what is your  salary expectation? -> 120000
+      ❓ are you able to work to our core meeting hours of 10 am to 5 pm pacific time? -> Yes
+      ❓ are you authorized to work in the u.s. or canada? -> Yes
+      ❓ will you now, or in the future, require visa sponsorship to legally work in the u.s. or ca -> No
+      ❓ are you at least 18 years old? -> Yes
+      ❓ have you worked at thatgamecompany before? -> No
+44 | Build Engineer | thatgamecompany | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+45 | Staff Software Engineer - Product Platform Engineering | Pivotal Health | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+46 | Senior Data Engineer | Spokeo | Pasadena, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+47 | Staff Data Engineer | LegalZoom | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+48 | AI Solutions Architect- Post-Sales | HiddenLayer | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+49 | Enterprise Applications Architect | TriSearch | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+50 | STEM Expert - Remote | YO AI Labs | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+51 | Senior Technical Artist - UE5 | Snail Games USA | Beverly Hills, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+52 | Chemistry PhD - Quantum Specialist - AI Trainer | Mercor | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+53 | Data Engineer (Remote) | Delan Associates, Inc | Los Angeles, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+54 | Senior Data Analyst | Rightsline Inc | El Segundo, CA | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=python&lk=_9pHyGWf5ayrAn52AqnuPA
+55 | Data Engineer | Edmunds.com | Santa Monica, CA | * 🥵 No 1-Click / Quick Apply button: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=python&lk=5uw68kAQB3cdSRNYwPSaEg
+      ❓ it is okay to send me text messages about this opportunity. -> No
+56 | Code Instructor - Part-Time | Code Ninjas El Segundo | El Segundo, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=python&lk=DtdSAlbyf5BiNa6Z6aRatw
+      ❓ current company -> Streamnova Media
+      ❓ current location -> New York, NY 10011
+      ❓ phone -> 3054649260
+      ❓ additional information -> I'm a Senior AI & Full-Stack Software Engineer with 6+ years
+      ❓ why are you interested in an internship at zuru? (maximum of 250 words) -> I'm excited about ZURU because the Data Analyst Intern role 
+      ❓ what month and year are you expected to graduate in? -> 6
+      ❓ what university do you currently attend? -> University of Louisville
+      ❓ why are you interested in a career in data analytics? (maximum of 250 words) -> I'm excited about ZURU because the Data Analyst Intern role 
+      ❓ this role involves working closely with our team in mexico, so spanish language skills are -> No
+      ❓ Yes I confirm that if I were successful in this role that I am able to work full time in t -> e0fd6fff-9626-4701-a3ca-5071b23537e2
+57 | Data Analyst Intern | ZURU | El Segundo, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=python&lk=eD85ZcQ-ZzLDvHkKT15S3g
+      ❓ Yes -> Yes
+      ❓ Yes -> Yes
+      ❓ Yes -> Yes
+58 | Senior Economic Research Associate | Beacon Economics LLC | Miracle Mile, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?location=Santa+Monica%2CCA&search=python&lk=RSpmV5RuW6wg-IvOjAZV3g
+
+ ZipRecruiter | Category: angular, Location: Remote
+
+ ZipRecruiter | Category: nodejs, Location: Remote
+
+ ZipRecruiter | Category: java, Location: Remote
+59 | Research Engineer - Remote | YO AI Labs | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=java&lk=Sc3ovQA8E4Hbhdk2hkfBvg
+60 | Senior Software Engineer | Nastech Global | Los Angeles, CA | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?days=30&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=80000&search=java&lk=LlEoV7ExGBFqNnpwmVoZFQ
+
+ ZipRecruiter | Category: nextjs, Location: Remote
