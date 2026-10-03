@@ -183,6 +183,11 @@ class Dice(JobSiteBot):
             self.open(f"https://www.dice.com/job-applications/{jobId}/wizard")
         self.pause(2, 4)
         self.switchToNewWindow(knownWindows)
+        if "dice.com" not in self.currentUrl().lower():
+            self.countCannotApply += 1
+            self.record(properties, "* 🥵 Applies on company site (not Dice Easy Apply)", url)
+            self.closeExtraWindows(mainWindow)
+            return
         if self.onLoginPage():
             self.countCannotApply += 1
             self.record(properties, "* 🥵 Not logged in, cannot open application", url)
@@ -208,6 +213,13 @@ class Dice(JobSiteBot):
             self.displayWriteResults(f"      ❓ {qa}")
         if result == "failed" and self.onAppliedPage():
             result = "applied"
+        step = re.search(r"step \d+ of \d+", self.pageText()) if result == "failed" else None
+        if result == "failed":
+            self.closeExtraWindows(mainWindow)
+            if self.confirmApplied(url):
+                self.applied()
+                self.record(properties, "* 🥳 Just Applied to this job (confirmed on Dice)", url)
+                return
         if result == "applied":
             self.closeExtraWindows(mainWindow)
             if self.confirmApplied(url):
@@ -221,7 +233,6 @@ class Dice(JobSiteBot):
             self.record(properties, "* 🧪 DRY RUN - Would apply to this job", url)
         else:
             self.countCannotApply += 1
-            step = re.search(r"step \d+ of \d+", self.pageText())
             where = f" - stuck at {step.group(0)}" if step else ""
             self.record(properties, f"* 🥵 Cannot apply to this Job! (needs manual answers{where})", url)
         self.closeExtraWindows(mainWindow)

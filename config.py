@@ -9,14 +9,17 @@ password = "paulaworkmi123Q"
 
 runDice = True
 runZipRecruiter = True
+runIndeed = True
 diceEmail = "paulaworkmi@gmail.com"
 dicePassword = ""
 zipRecruiterEmail = ""
 zipRecruiterPassword = ""
+indeedEmail = "paulaworkmi@gmail.com"
+indeedPassword = ""
 searchLocations = ["Remote"]
 maxPagesPerSearch = 5
 manualLoginWaitSeconds = 300
-resumePath = r"D:\MMS\Data\PAULA_CARVAJAL.pdf"
+resumePath = r"D:\MMS\data\PAULA_CARVAJAL_AI.pdf"
 skills = ["Python", "Java", "Ruby", "JavaScript", "TypeScript", "SQL", "Angular", "React", "HTML", "HTML5", "CSS", "CSS3", "Tailwind", "FastAPI", "Django", "Spring Boot", "Spring", "Node", "Node.js", "NodeJS", "REST", "REST API", "Microservices", "TensorFlow", "PyTorch", "Keras", "scikit-learn", "Hugging Face", "LangChain", "OpenAI", "OpenAI API", "spaCy", "NLTK", "LLM", "LLMs", "NLP", "Machine Learning", "ML", "AI", "Artificial Intelligence", "Generative AI", "GenAI", "Computer Vision", "AWS", "SageMaker", "Vertex AI", "Azure ML", "MLflow", "Docker", "Kubernetes", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch", "Kafka", "Apache Kafka", "Spark", "Apache Spark", "Airflow", "Full Stack", "Full-Stack", "Frontend", "Front End", "Backend", "Back End", "Git", "CI/CD", "Agile"]
 yearsOfExperience = 6
 yearsLeadingTeams = 2
@@ -44,7 +47,7 @@ strengthsAnswer = "I combine strong full-stack fundamentals with hands-on AI exp
 timeZoneAnswer = "Eastern Time (ET) - New York, NY"
 salaryAlignAnswer = "Yes, my expectations align with the outlined range."
 desiredPay = 120000
-eeoAnswers = {"hispanic|latino|ethnicity|race": "", "gender|\bsex\b": "", "veteran": "", "disabilit": ""}
+eeoAnswers = {"hispanic|latino": "Hispanic or Latino", "ethnicity|race": "", r"gender|\bsex\b": "", "veteran": "", "disabilit": ""}
 desiredHourlyPay = 60
 salaryExpectationAnswer = "I'm flexible and open to a competitive offer within your budgeted range for this role."
 availabilityAnswer = "I can start within two weeks."
@@ -90,6 +93,7 @@ followCompanies = False
 preferredCv = 1
 #PRO FEAUTRE! - Output unaswered questions into a seperate text file, will output radio box, dropdown and input field questions into seperate .yaml file
 outputSkippedQuestions = True
+autoLearnAnswers = True
 #PRO FEATURE! - Use AI to fill and answer skipped questions. Will cost 5 credits per answer cause of computational power.
 useAiAutocomplete = False
 #PRO FEATURE! - Only Apply these companies -  ex: ["Apple","Google"] -  leave empty for all companies 
@@ -160,7 +164,7 @@ GlobalLogicKeyword = ["react"]
 # Global Logic Job apply settinngs
 FirstName = "O"
 LastName = "D"
-Email = "asdsa@gmail.com"
+Email = "paulaworkmi@gmail.com"
 LinkedInProfileURL = "www.google.com"
 Phone = "" #OPTIONAL
 Location = "" #OPTIONAL

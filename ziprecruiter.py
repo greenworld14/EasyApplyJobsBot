@@ -152,7 +152,7 @@ class ZipRecruiter(JobSiteBot):
             self.record(properties + f" ({reason})", "* 🤬 Blacklisted Job, skipped!", url)
             return
 
-        if self.findClickable(["applied", "application sent"], exact=True) is not None:
+        if self.appliedBadge():
             self.countAlreadyApplied += 1
             self.record(properties, "* 🥳 Already applied!", url)
             return
@@ -163,7 +163,7 @@ class ZipRecruiter(JobSiteBot):
             button = self.findClickable(self.quickApplyTexts) or self.findClickable(["continue", "continue application", "finish applying", "finish application"], exact=True)
             if button is not None:
                 break
-            if self.findClickable(["applied", "application sent"], exact=True) is not None:
+            if self.appliedBadge():
                 self.countAlreadyApplied += 1
                 self.record(properties, "* 🥳 Already applied!", url)
                 return
@@ -231,8 +231,24 @@ class ZipRecruiter(JobSiteBot):
                 return
             time.sleep(1)
 
+    APPLIED_BADGE_JS = r"""
+for (const el of document.querySelectorAll('button, a, span, div, p, [role=button]')) {
+  const r = el.getBoundingClientRect();
+  if (r.width === 0 || r.height === 0 || el.children.length > 2) continue;
+  const t = (el.innerText || el.textContent || '').replace(/\s+/g, ' ').trim().toLowerCase();
+  if (t.length < 40 && /^(applied!?|application sent|you applied|applied on .+|applied \d.*)$/.test(t)) return true;
+}
+return false;
+"""
+
+    def appliedBadge(self) -> bool:
+        try:
+            return bool(self.driver.execute_script(self.APPLIED_BADGE_JS))
+        except Exception:
+            return False
+
     def appliedOnPage(self) -> bool:
-        if self.findClickable(["applied", "application sent", "applied!"], exact=True) is not None:
+        if self.appliedBadge():
             return True
         return any(t in self.pageText() for t in self.successTexts)
 
@@ -283,7 +299,7 @@ class ZipRecruiter(JobSiteBot):
                         except Exception as e:
                             self.countCannotApply += 1
                             self.record(f"{self.countJobs} | {self.currentTitle} | {self.currentCompany}", f"* 🥵 Error: {str(e)[0:80]}", self.currentUrl())
-                        if "jobs-search" not in self.currentUrl():
+                        if "jobs-search" not in self.currentUrl() or self.dialogScope() is not None:
                             self.open(pageUrl)
                             self.pause(2, 4)
                         if self.reachedCap():

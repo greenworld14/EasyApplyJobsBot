@@ -292,48 +292,6 @@ inputField:
   angielski: Native or bilingual
   ai coding agents: 'I use AI coding assistants daily for scaffolding, writing tests, refactoring and exploring unfamiliar code, and I treat their output like a junior teammate''s pull request: I review every change, run the tests and check edge cases. Where they have burned me is confident but wrong code, such as calling APIs that don''t exist, quietly changing behavior during a refactor, or missing project conventions, so I keep tasks small, give them clear context and never merge anything I haven''t verified.'
   strong opinion: Most engineers underinvest in observability and boring reliability work. Clear logging, metrics and alerting, plus simple, well-tested code paths, prevent far more incidents than clever architecture, and they make every future change faster and safer.
-  "walk us through the breadth of industries you've touched in your ecvc/corporate work":
-    answer: ""
-    needs_review: true
-  "how are you currently using ai tools in your legal practice or personal life":
-    answer: "I don't have a legal practice. I use AI tools every day in my software engineering work, building NLP and LLM features with Python, LangChain, the OpenAI API and Hugging Face, such as a document-processing pipeline that automates information extraction."
-    needs_review: true
-  "are you genuinely excited about building a firm from the ground up":
-    answer: ""
-    needs_review: true
-  "are you comfortable with ai tools and technology":
-    answer: "Yes. I work with AI tools and technology every day as a Senior AI & Software Engineer, building LLM and NLP features with LangChain, the OpenAI API and Hugging Face. I don't have a legal practice."
-    needs_review: true
-  "what's driving your interest in leaving your current role":
-    answer: ""
-    needs_review: true
-  "do you have daily, hands-on use of ai assistants":
-    answer: "Yes. I use AI coding assistants daily for scaffolding, writing tests, refactoring and exploring unfamiliar code, and I review and test every change before it ships."
-    needs_review: true
-  "the salary for this role is":
-    answer: ""
-    manual: true
-  "are you comfortable with the salary range of":
-    answer: ""
-    manual: true
-  "please enter the amount":
-    answer: ""
-    manual: true
-  "how many years of hands-on experience do you have using with cypress and playwright?":
-    answer: "0"
-    needs_review: true
-  "how many years of hands-on experience do you have llms ?":
-    answer: "2"
-    needs_review: true
-  "experience mentoring more junior software engineers":
-    answer: "Yes. In my 2 years leading engineering teams I have supported junior engineers through code reviews, pairing sessions and design discussions, helping them grow their skills and ship production features with confidence."
-    needs_review: true
-  "middle name":
-    answer: ""
-    needs_review: true
-  "current location":
-    answer: "New York, New York"
-    needs_review: true
 radio:
   Driver: 'yes'
   Sponsor: 'no'
@@ -416,36 +374,6 @@ radio:
   years of experience in web development: 5 - 8 years
   kraków: 'no'
   contact me about future job opportunities: 'yes'
-  "select currency type":
-    answer: "United States Dollar (USD)"
-    needs_review: true
-  "do you currently reside in california? are you able to come into the office a few times a quarter?":
-    answer: "No"
-    needs_review: true
-  "do you have 7+ years of experience in delivering highly scalable, distributed software products with saas architectures and multi-tenancy?":
-    answer: "No"
-    needs_review: true
-  "do you have at least 2 years of experience as a trainer or instructor?":
-    answer: "No"
-    needs_review: true
-  "do you have hands-on experience in cloud environments?":
-    answer: "Yes"
-    needs_review: true
-  "if you are a person, answer “human”. if you are not human, answer “not human”. don’t lie.":
-    answer: "Human"
-    needs_review: true
-  "what state do you currently reside in?":
-    answer: "New York"
-    needs_review: true
-  "do you live east cost timezone in us?":
-    answer: "Yes"
-    needs_review: true
-  "do you currently reside in the location specified for this role?":
-    answer: "No"
-    needs_review: true
-  "have you read nebius's candidates privacy policy?":
-    answer: "No"
-    needs_review: true
 dropdown:
   Are you located in the World?: 'Yes'
   proficiency in english: Native or bilingual
@@ -598,19 +526,3 @@ dropdown:
   dlt / blockchain: 'No'
   tier 4 visa: 'No'
   enhanced dv clearance: 'No'
-checkbox:
-  "what technologies you would consider having expertise. with the definition of \"expertise\" meaning \"\"i understand why and how it works at scale and i have the ability to handle architectural decisions,":
-    answer: "Typescript, Python, React, HTML, CSS, Node.js, Docker, Microservice Architecture, RESTful Services"
-    needs_review: true
-  "what cloud services do you have experience with in a workplace setting? select al that apply.":
-    answer: "AWS, Google Cloud"
-    needs_review: true
-  "i certify that the information provided in this application is true, complete, and accurate to the best of my knowledge. i understand that providing false or misleading information may result in the r":
-    answer: "I certify and agree"
-    needs_review: true
-  "fieldai has my consent to contact me about future job opportunities.":
-    answer: "Provide consent if you would like to be contacted about future job opportunities."
-    needs_review: true
-  "which of the following skills do you possess?":
-    answer: "APIs, Cloud Application Deployment Workflows, Cloud Computing Concepts, Communication, Developer Tools, JavaScript, Python, Software Engineering, Technical Enablement, Technical Training"
-    needs_review: true

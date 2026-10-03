@@ -1,0 +1,72 @@
+Updated 2026-10-03 22:59:11
+
+NOT A QUESTION PROBLEM - apply form did not open or has no Next/Submit button (73x)
+        last: 2026-10-03 22:51:03 | Indeed | Hartford, CT | Salesforce Developer/Programmer | https://www.indeed.com/viewjob?jk=4a8e37c8ab720ae5
+
+NEED AN ANSWER (16)
+  [8x] What is your desired salary? (AI flagged: legal, financial or personal-identity question)
+        last: 2026-10-03 21:51:03 | ZipRecruiter | CarParts.com | Senior AI Test Automation Engineer | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=FK4Ac9SgSHcJChF0Mrvj4g
+  [7x] are you comfortable with ai tools and technology, and are you already using ai in your legal practice or personal life? (AI flagged: legal, financial or personal-identity question)
+        last: 2026-10-03 21:09:45 | ZipRecruiter | The French Sourcer | Senior/Staff Software Engineer | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=KAb0aH6_w7fgHaGUxktz2w
+  [7x] are you genuinely excited about building a firm from the ground up rather than simply looking for a remote job? (AI flagged: model unsure)
+        last: 2026-10-03 21:09:45 | ZipRecruiter | The French Sourcer | Senior/Staff Software Engineer | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=KAb0aH6_w7fgHaGUxktz2w
+  [7x] how are you currently using ai tools in your legal practice or personal life? give specific examples. (AI flagged: legal, financial or personal-identity question)
+        last: 2026-10-03 21:09:45 | ZipRecruiter | The French Sourcer | Senior/Staff Software Engineer | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=KAb0aH6_w7fgHaGUxktz2w
+  [5x] walk us through the breadth of industries you've touched in your ecvc/corporate work and how many clients made up the bulk of your practice. (AI flagged: model unsure)
+        last: 2026-10-03 21:09:45 | ZipRecruiter | The French Sourcer | Senior/Staff Software Engineer | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=KAb0aH6_w7fgHaGUxktz2w
+  [4x] Search to select an option
+        last: 2026-10-03 22:59:11 | Indeed | San Francisco, CA | Senior Manager, SEO & GEO | https://www.indeed.com/viewjob?jk=d5d0c553f76e3e7d
+  [2x] Are you comfortable with the salary range of $125,000 - $175,000 per year, including a target annual bonus of 10%?
+        last: 2026-10-03 22:03:01 | ZipRecruiter | CyberCoders | OpenAI Technical Cloud Instructor | https://www.ziprecruiter.com/jobs-search?search=python&location=Santa+Monica%2CCA&lk=y0lyNCYD3A1_IRlLmN2lJg
+  [1x] address line 2 (AI flagged: model unsure)
+        last: 2026-10-03 21:57:16 | ZipRecruiter | FieldAI | Senior Software Engineer, Test | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=qXvV_AQ_GaIF_YQk9_bpGw
+  [1x] do you have previous experience mentoring more junior software engineers? explain. (AI flagged: model unsure)
+        last: 2026-10-03 21:54:29 | ZipRecruiter | Faro Health Inc. | Senior Software Engineer | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=SeKM3lDew55giZOpKuQPSA
+  [1x] middle name (AI flagged: model unsure)
+        last: 2026-10-03 21:57:16 | ZipRecruiter | FieldAI | Senior Software Engineer, Test | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=qXvV_AQ_GaIF_YQk9_bpGw
+  [1x] No
+        last: 2026-10-03 22:54:18 | Indeed | Boston, MA | Executive Recruiting Coordinator | https://www.indeed.com/viewjob?jk=ed3c97c6a05b2eec
+  [1x] Please enter the amount
+        last: 2026-10-03 21:21:56 | ZipRecruiter | CarParts.com | Senior AI Test Automation Engineer | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=FK4Ac9SgSHcJChF0Mrvj4g
+  [1x] please enter the amount (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-03 21:51:03 | ZipRecruiter | CarParts.com | Senior AI Test Automation Engineer | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=FK4Ac9SgSHcJChF0Mrvj4g
+  [1x] The salary for this role is $200K - $300K/year. Will this work for you?
+        last: 2026-10-03 20:59:03 | ZipRecruiter | Talent Search PRO | Corporate / ECVC Associate (Remote) | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=SqCfd1x-lb0PzGxKk75Z1A
+  [1x] This employer may use an artificial intelligence algorithm to provide an initial comparison of an applicant’s education, experience, and skills against the education, experience and skill requirements in the job description. This analysis produces a Profile Relevancy score, which is intended to be one of many factors that a potential employer will review in making its interview decisions; there are no cut off scores and all applications are visible to employers. Read more about how these tools collect, store, and retain information and the results of the most recent impartial evaluations. The Profile Relevancy score for applicants who opt out will be listed as “Not Available”. (AI flagged: model unsure)
+        last: 2026-10-03 21:51:03 | ZipRecruiter | CarParts.com | Senior AI Test Automation Engineer | https://www.ziprecruiter.com/jobs-search?search=typescript&location=Newport+Beach%2CCA&lk=FK4Ac9SgSHcJChF0Mrvj4g
+  [1x] Walk us through the breadth of industries you've touched in your ECVC/corporate work and how many clients made up the bulk of your practice.
+        last: 2026-10-03 20:59:03 | ZipRecruiter | Talent Search PRO | Corporate / ECVC Associate (Remote) | https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=SqCfd1x-lb0PzGxKk75Z1A
+
+ANSWERED IN additionalQuestions.yaml (16)
+  [2x] Hispanic or Latino
+        -> Hispanic or Latino (config.py eeoAnswers)
+  [2x] Not Hispanic or Latino
+        -> Hispanic or Latino (config.py eeoAnswers)
+  [2x] Who do you know that works at HiddenLayer?
+        -> No one
+  [1x] Are you comfortable with AI tools and technology, and are you already using AI in your legal practice or personal life?
+        -> Yes. I work with AI tools and technology every day as a Senior AI & Software Engineer, building LLM and NLP features with LangChain, the OpenAI API an
+  [1x] Are you genuinely excited about building a firm from the ground up rather than simply looking for a remote job?
+        -> yes
+  [1x] Describe how you have owned the software testing life cycle end to end.
+        -> On my projects I've owned testing from start to finish: turning requirements into test cases, writing unit and integration tests alongside the code, a
+  [1x] Did a thatgamecompany employee refer you, if so who?
+        -> No
+  [1x] Do you have any immediate family members working at thatgamecompany? If so, who?
+        -> No
+  [1x] GPA
+        -> N/A
+  [1x] Have you read Nebius's Candidates Privacy Policy?
+        -> No
+  [1x] How are you currently using AI tools in your legal practice or personal life? Give specific examples.
+        -> I don't have a legal practice. I use AI tools every day in my software engineering work, building NLP and LLM features with Python, LangChain, the Ope
+  [1x] How does your background or future goals align with Fuser?
+        -> I have 6+ years of experience building production full-stack and AI-powered applications with Python, Java, TypeScript, React, Angular and AWS, and I 
+  [1x] How far have you progressed in Sky: Children of the light?
+        -> I haven't played Sky: Children of the Light yet, but I'm looking forward to it.
+  [1x] If other, please provide.
+        -> N/A
+  [1x] If you were offered the role, when would you be able to start?
+        -> I can start within two weeks.
+  [1x] Three emojis that describe you
+        -> ⚡ ☕ ✨
