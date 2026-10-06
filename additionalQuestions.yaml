@@ -334,6 +334,27 @@ inputField:
   "current location":
     answer: "New York, New York"
     needs_review: true
+  "years of experience on spotify backstage ?":
+    answer: "0"
+    needs_review: true
+  "how actively are you exploring new opportunities?":
+    answer: "Actively looking and open to new opportunities."
+    needs_review: true
+  "do you have breadth of experience across multiple clients and industries rather than being concentrated on a single major client?":
+    answer: "Yes, I have experience across multiple clients and industries."
+    needs_review: true
+  "share 3 to 5 meta ads you designed that ran in real campaigns. include at least one static and one animated. who were they for, and how did they perform?":
+    answer: "I don’t have experience designing Meta ads or managing social media campaigns. My background is in AI engineering and full-stack software development, not social media advertising."
+    needs_review: true
+  "why do you want to work for truvani?":
+    answer: "I’m excited about Truvani’s focus on innovative social media solutions and how my full-stack and AI expertise can contribute to impactful campaigns. My background in building scalable, AI-driven systems aligns with the creative and technical challenges of this role. I’m eager to bring my problem-solving skills and passion for technology to a dynamic team like yours."
+    needs_review: true
+  "how many years of hands-on hubspot crm configuration experience do you have?":
+    answer: "0"
+    needs_review: true
+  "what’s the most complex automation or workflow you’ve personally built in hubspot?":
+    answer: "The candidate has not built any complex automation or workflow in HubSpot, as there is no mention of HubSpot experience in their profile."
+    needs_review: true
 radio:
   Driver: 'yes'
   Sponsor: 'no'
@@ -445,6 +466,42 @@ radio:
     needs_review: true
   "have you read nebius's candidates privacy policy?":
     answer: "No"
+    needs_review: true
+  "can you work w2 contract ? (no c2c/1099)":
+    answer: "Yes"
+    needs_review: true
+  "what location region do you currently reside in?":
+    answer: "Eastern (ET)"
+    needs_review: true
+  "do you have 2–6 years of post-jd experience with real ecvc/startup corporate experience, including experience in big law, in-house at a startup, or solo practice?":
+    answer: "No"
+    needs_review: true
+  "do you have ecvc experience if you are at the junior end of the 2–6 year range?":
+    answer: "No"
+    needs_review: true
+  "do you have a j.d. from an accredited law school and active bar admission?":
+    answer: "No"
+    needs_review: true
+  "do you have professional experience as a cinematic technical animator?":
+    answer: "No"
+    needs_review: true
+  "would you be open to contract work as part of a codevelopment team?":
+    answer: "Yes"
+    needs_review: true
+  "do you have over 10 years of experience working .net & c#":
+    answer: "No"
+    needs_review: true
+  "do you have significant professional experience in a acting as a senior software developer or equivalent senior technical role, where you were responsible for providing technical direction to other de":
+    answer: "Yes"
+    needs_review: true
+  "is your current role primarily focused on hands-on software development and writing production code? rather than management, architecture, technical leadership, project leadership?":
+    answer: "Yes"
+    needs_review: true
+  "do you have extensive hands-on professional experience with c# and .net / .net core, including responsibility for technical decisions relating to these technologies?":
+    answer: "No"
+    needs_review: true
+  "have you worked on a large-scale enterprise or saas platform used by a significant number of customers or end users?":
+    answer: "Yes, some experience"
     needs_review: true
 dropdown:
   Are you located in the World?: 'Yes'
@@ -613,4 +670,7 @@ checkbox:
     needs_review: true
   "which of the following skills do you possess?":
     answer: "APIs, Cloud Application Deployment Workflows, Cloud Computing Concepts, Communication, Developer Tools, JavaScript, Python, Software Engineering, Technical Enablement, Technical Training"
+    needs_review: true
+  "spotify has my consent to contact me about future job opportunities.":
+    answer: "Provide consent if you would like to be contacted about future job opportunities."
     needs_review: true

@@ -1,0 +1,209 @@
+---- Applied Jobs Data ---- created at: 20261005
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Full Stack Developer | Mercor | Miami, FL (required blacklisted tech: .NET, C#, Kotlin, Android) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=xKQGS_M6RzeL_tT6o8tRjA
+2 | Backend Engineer - Music | Spotify | Miami, FL (required blacklisted tech: .NET, C#, Java) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=y-TDziU45u6A92FFP9OSMA
+3 | Frontend Engineer Remote | YO AI Labs | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=xlDyzHBXVnznSdLvJy4hQQ
+4 | Corporate / ECVC Associate (Remote) | Talent Search PRO | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=3jtZm01SIjjdUiyvndifDg
+5 | Airtable Developer | WorkNovas LLC | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=HFQ2192oFKC-Tt7BFCgSVw
+6 | Strategic CSM | Polar Analytics | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=Iqj0ibCZJ8RnWytK-7EWNg
+7 | Senior Director, Member and Provider Services | Oscar Health | Miami, FL (blacklisted title: director cto) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=J_LXo-CNlHLtwe6HBh9F1A
+8 | Senior Software Developer - C#/.Net - Fort Lauderdale, Florida / Fully Remote | Pinewood.AI | Fort Lauderdale, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=M3DIwRWqRZ42xixx_jMV_Q
+
+ ZipRecruiter | Category: frontend, Location: Remote
+9 | Sr. Adobe Target Developer | WorkNovas LLC | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=xh-Q8OYzZHU5UQdlX5TM1w
+10 | Paid Social Designer (Statics + Motion, CPG) REMOTE | Truvani | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=eBPtkDc979pEbfwA9a96nQ
+11 | Visual Studio Code Expert - macOS - AI Trainer | Mercor | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=Bc1B69sACldeYg80wvoqiQ
+12 | Cinematic Technical Animator | side | Fort Lauderdale, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=hOHdEs2ZKJVQIWFZMqWmLw
+
+ ZipRecruiter | Category: react, Location: Remote
+
+ ZipRecruiter | Category: typescript, Location: Remote
+
+ ZipRecruiter | Category: javascript, Location: Remote
+
+ ZipRecruiter | Category: vue, Location: Remote
+
+ ZipRecruiter | Category: python, Location: Remote
+13 | Python Engineer - Codebase Specialist - AI Trainer | Mercor | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=python&lk=RtlgQdCErV9RtuU72Myumw
+14 | Senior Application Security Engineer ID87004 | AgileEngine | Miami, FL (required blacklisted tech: .NET, C#, Java) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=python&lk=A4NEIOlA6JFCd1pPCGUBgg
+15 | HubSpot Systems & Data Engineer | Curvion Blue | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=python&lk=PHgX1vk7tmkqyiRipUtnDg
+16 | STEM Expert - Remote | YO AI Labs | Miami, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=python&lk=kOuPB_WHPAT7FeRdKeiONw
+17 | Senior Data Engineer - Full Time Only - Remote | GDR Defense | Miramar, FL (required blacklisted tech: .NET, C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=python&lk=EapJR2CG8K49_AHIhAIVQg
+
+ ZipRecruiter | Category: angular, Location: Remote
+18 | Frontend Designer - Remote | YO AI Labs | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=angular&lk=znZ0YTiE6W9b3H-cgTqdIQ
+
+ ZipRecruiter | Category: nodejs, Location: Remote
+
+ ZipRecruiter | Category: java, Location: Remote
+19 | Backend C#/. - Remote | YO AI Labs | Miami, FL (required blacklisted tech: C#) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=java&lk=GA2hY-yqGYv2a657_xR4oQ
+
+ ZipRecruiter | Category: nextjs, Location: Remote
+
+ ZipRecruiter | Category: php, Location: Remote
+
+ ZipRecruiter | Category: laravel, Location: Remote
+
+ ZipRecruiter | Category: nestjs, Location: Remote
+
+Jobs processed: 19 | Applied: 2 | Blacklisted: 17 | Already applied: 0 | Could not apply: 0 | Duration: 3.1 min
+
+ ZipRecruiter | Category: full-stack, Location: Remote
+1 | Full Stack Developer | Mercor | Miami, FL (required blacklisted tech: Kotlin, Android) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=xKQGS_M6RzeL_tT6o8tRjA
+      🤖 AI answered: are you interested in working out of any of the following office locations? our job description will have location eligi -> New York, NY
+      🤖 AI answered: Spotify has my consent to contact me about future job opportunities. -> Provide consent if you would like to be contacted about future job opportunities.
+      📝 Saved AI answer to additionalQuestions.yaml (checkbox, needs_review): spotify has my consent to contact me about future job opportunities.
+      ❓ current company -> Streamnova Media [profile]
+      ❓ Have you ever been previously employed by Spotify? -> No [profile]
+      ❓ current location -> New York, New York [yaml]
+      ❓ are you interested in working out of any of the following office locations? our job descri -> New York, NY [ai]
+      ❓ gender -> Decline to self-identify [profile]
+      ❓ race -> Decline to self-identify [profile]
+      ❓ veteran status -> Decline to self-identify [profile]
+      ❓ Spotify has my consent to contact me about future job opportunities. -> Provide consent if you would like to be contacted about future job opportunities. [ai]
+2 | Backend Engineer - Music | Spotify | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=y-TDziU45u6A92FFP9OSMA
+3 | Frontend Engineer Remote | YO AI Labs | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=xlDyzHBXVnznSdLvJy4hQQ
+      🚩 Needs manual answer (AI flagged: model unsure): why do you think you will be a great fit for this role?
+      🤖 AI answered: how actively are you exploring new opportunities? -> Actively looking and open to new opportunities.
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): how actively are you exploring new opportunities?
+      🚩 Needs manual answer (manual entry in additionalQuestions.yaml: what's driving your interest in leaving your current role): what's driving your interest in leaving your current role and joining an early-stage ai-native law firm like virgil?
+      🚩 Needs manual answer (manual entry in additionalQuestions.yaml: walk us through the breadth of industries you've touched in ): walk us through the breadth of industries you've touched in your ecvc/corporate work and how many clients made up the bu
+      🤖 AI answered: do you have breadth of experience across multiple clients and industries rather than being concentrated on a single majo -> Yes, I have experience across multiple clients and industries.
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): do you have breadth of experience across multiple clients and industries rather than being concentra
+      🚩 Needs manual answer (manual entry in additionalQuestions.yaml: are you genuinely excited about building a firm from the gro): are you genuinely excited about building a firm from the ground up rather than simply looking for a remote job?
+      🚩 Needs manual answer (manual entry in additionalQuestions.yaml: the salary for this role is): the salary for this role is $200k - $300k/year. will this work for you?
+      🤖 AI answered: do you have 2–6 years of post-jd experience with real ecvc/startup corporate experience, including experience in big law -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have 2–6 years of post-jd experience with real ecvc/startup corporate experience, including e
+      🤖 AI answered: do you have ecvc experience if you are at the junior end of the 2–6 year range? -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have ecvc experience if you are at the junior end of the 2–6 year range?
+      🤖 AI answered: do you have a j.d. from an accredited law school and active bar admission? -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have a j.d. from an accredited law school and active bar admission?
+      ❓ phone -> 3054649260 [profile]
+      ❓ city -> New York, NY [yaml]
+      ❓ state -> New York [yaml]
+      ❓ country -> United States [profile]
+      ❓ postal code -> 10011 [profile]
+      ❓ current title -> Senior AI & Software Engineer [profile]
+      ❓ current company -> Streamnova Media [profile]
+      ❓ what is your salary expectation? -> 120000 [profile]
+      ❓ how actively are you exploring new opportunities? -> Actively looking and open to new opportunities. [ai]
+      ❓ how are you currently using ai tools in your legal practice or personal life? give specifi -> I don't have a legal practice. I use AI tools every day in m [yaml]
+      ❓ do you have breadth of experience across multiple clients and industries rather than being -> Yes, I have experience across multiple clients and industrie [ai]
+      ❓ are you comfortable with ai tools and technology, and are you already using ai in your leg -> Yes. I work with AI tools and technology every day as a Seni [yaml]
+      ❓ are you a u.s. citizen, a permanent resident, or a green card holder? -> Yes [profile]
+      ❓ do you have 2–6 years of post-jd experience with real ecvc/startup corporate experience, i -> No [ai]
+      ❓ do you have ecvc experience if you are at the junior end of the 2–6 year range? -> No [ai]
+      ❓ do you have a j.d. from an accredited law school and active bar admission? -> No [ai]
+4 | Corporate / ECVC Associate (Remote) | Talent Search PRO | Miami, FL | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=3jtZm01SIjjdUiyvndifDg
+      ❌ Not answered: The salary for this role is $200K - $300K/year. Will this work for you? [empty]
+      ❌ Not answered: Why do you think you will be a great fit for this role? [empty]
+      ❌ Not answered: What's driving your interest in leaving your current role and joining an early-stage AI-native law firm like Virgil? [empty]
+      ❌ Not answered: Walk us through the breadth of industries you've touched in your ECVC/corporate work and how many clients made up the bulk of your practice. [empty]
+      ❌ Not answered: Are you genuinely excited about building a firm from the ground up rather than simply looking for a remote job? [empty]
+5 | Airtable Developer | WorkNovas LLC | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=HFQ2192oFKC-Tt7BFCgSVw
+6 | Software Architect ID92707 | AgileEngine | Miami, FL (blacklisted title: architect) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=rcCb6FmPvXWqNex22CmH1A
+      ❓ current / most recent job title -> Senior AI & Software Engineer [profile]
+7 | Strategic CSM | Polar Analytics | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=Iqj0ibCZJ8RnWytK-7EWNg
+8 | Senior Director, Member and Provider Services | Oscar Health | Miami, FL (blacklisted title: director cto) | * 🤬 Blacklisted Job, skipped!: https://www.ziprecruiter.com/jobs-search?search=full-stack&lk=J_LXo-CNlHLtwe6HBh9F1A
+
+ ZipRecruiter | Category: frontend, Location: Remote
+9 | Sr. Adobe Target Developer | WorkNovas LLC | Miami, FL | * 🥳 Already applied!: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=xh-Q8OYzZHU5UQdlX5TM1w
+      🤖 AI answered: share 3 to 5 meta ads you designed that ran in real campaigns. include at least one static and one animated. who were th -> I don’t have experience designing Meta ads or managing social media campaigns. My background is in AI engineering and full-stack software development,
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): share 3 to 5 meta ads you designed that ran in real campaigns. include at least one static and one a
+      🚩 Needs manual answer (AI flagged: model unsure): tell us about an ad that won a test. why do you think it beat the others?
+      🚩 Needs manual answer (AI flagged: model unsure): walk us through how you'd take one winning static ad and build 5 variations to test.
+      🤖 AI answered: why do you want to work for truvani? -> I’m excited about Truvani’s focus on innovative social media solutions and how my full-stack and AI expertise can contribute to impactful campaigns. M
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): why do you want to work for truvani?
+      ❓ desired salary -> 120000 [profile]
+      ❓ address -> New York, NY 10011 [profile]
+      ❓ linkedin url -> https://www.linkedin.com/in/paulafcarvajal [yaml]
+      ❓ date available -> 2026-10-19
+      ❓ website, blog or portfolio -> https://github.com/paulacarvajal [yaml]
+      ❓ please provide a link to your portfolio. -> https://github.com/paulacarvajal [profile]
+      ❓ share 3 to 5 meta ads you designed that ran in real campaigns. include at least one static -> I don’t have experience designing Meta ads or managing socia [ai]
+      ❓ why do you want to work for truvani? -> I’m excited about Truvani’s focus on innovative social media [ai]
+10 | Paid Social Designer (Statics + Motion, CPG) REMOTE | Truvani | Miami, FL | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?search=frontend&lk=eBPtkDc979pEbfwA9a96nQ
+      ❌ Not answered: Tell us about an ad that won a test. Why do you think it beat the others? [empty]
+      ❌ Not answered: Walk us through how you'd take one winning static ad and build 5 variations to test. [empty]
+11 | Visual Studio Code Expert - macOS - AI Trainer | Mercor | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=frontend&lk=Bc1B69sACldeYg80wvoqiQ
+      🚩 Needs manual answer (AI flagged: model unsure): referral or connection at side got a friend on the inside? "who gave you the secret handshake?" drop a name if someone v
+      🤖 AI answered: Do you have professional experience as a Cinematic Technical Animator? -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have professional experience as a cinematic technical animator?
+      🤖 AI answered: Would you be open to contract work as part of a codevelopment team? -> Yes
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): would you be open to contract work as part of a codevelopment team?
+      ❓ preferred name if different than legal name: -> Paula [profile]
+      ❓ salary expectations -> 120000 [profile]
+      ❓ please provide a link to examples of your work/online portfolio/website, etc. -> https://github.com/paulacarvajal [yaml]
+      ❓ what is your desired per hour salary range in us dollars ($usd) currency? -> 120,000 USD per year [yaml]
+      ❓ if you were offered the role, when would you be able to start? -> I can start within two weeks. [yaml]
+      ❓ Do you have professional experience as a Cinematic Technical Animator? -> No [ai]
+      ❓ Would you be open to contract work as part of a codevelopment team? -> Yes [ai]
+12 | Cinematic Technical Animator | side | Fort Lauderdale, FL | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?search=frontend&lk=hOHdEs2ZKJVQIWFZMqWmLw
+      🤖 AI answered: Do you have over 10 years of experience working .Net & C# -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have over 10 years of experience working .net & c#
+      🚩 Needs manual answer (AI flagged: LLM request to http://localhost:11434/v1/chat/completions failed after 4 attempts: timed out after 600s): Do you currently live in Florida or would you require relocating? Please note we dont offer relocation packages.
+      🤖 AI answered: Do you have significant professional experience in a acting as a Senior Software Developer or equivalent senior technica -> Yes
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have significant professional experience in a acting as a senior software developer or equiva
+      🤖 AI answered: Is your current role primarily focused on hands-on software development and writing production code? Rather than managem -> Yes
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): is your current role primarily focused on hands-on software development and writing production code?
+      🤖 AI answered: Do you have extensive hands-on professional experience with C# and .NET / .NET Core, including responsibility for techni -> No
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): do you have extensive hands-on professional experience with c# and .net / .net core, including respo
+      🤖 AI answered: Have you worked on a large-scale enterprise or SaaS platform used by a significant number of customers or end users? -> Yes, some experience
+      📝 Saved AI answer to additionalQuestions.yaml (radio, needs_review): have you worked on a large-scale enterprise or saas platform used by a significant number of custome
+      ❓ what is your current salary expectation in usd? please include any bonuses -> 120000 [profile]
+      ❓ How did you hear about us? -> Pinewood website [profile]
+      ❓ Do you have over 10 years of experience working .Net & C# -> No [ai]
+      ❓ Are you legally authorised to work in the USA without requiring visa or work permit sponso -> Yes [profile]
+      ❓ Do you have strong hands-on experience with SQL Server and T-SQL, including database desig -> No [yaml]
+      ❓ Do you have significant professional experience in a acting as a Senior Software Developer -> Yes [ai]
+      ❓ Is your current role primarily focused on hands-on software development and writing produc -> Yes [ai]
+      ❓ Do you have extensive hands-on professional experience with C# and .NET / .NET Core, inclu -> No [ai]
+      ❓ Have you worked on a large-scale enterprise or SaaS platform used by a significant number  -> Yes, some experience [ai]
+      ❓ Are you open to relocating to Florida in the future? -> No [profile]
+13 | Senior Software Developer - C#/.Net - Fort Lauderdale, Florida / Fully Remote | Pinewood.AI | Fort Lauderdale, FL | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?search=frontend&lk=M3DIwRWqRZ42xixx_jMV_Q
+      ❌ Not answered: Relocating [not selected]
+
+ ZipRecruiter | Category: react, Location: Remote
+
+ ZipRecruiter | Category: typescript, Location: Remote
+
+ ZipRecruiter | Category: javascript, Location: Remote
+
+ ZipRecruiter | Category: vue, Location: Remote
+
+ ZipRecruiter | Category: python, Location: Remote
+14 | Python Engineer - Codebase Specialist - AI Trainer | Mercor | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=python&lk=RtlgQdCErV9RtuU72Myumw
+15 | Senior Application Security Engineer ID87004 | AgileEngine | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=python&lk=A4NEIOlA6JFCd1pPCGUBgg
+      🤖 AI answered: how many years of hands-on hubspot crm configuration experience do you have? -> 0
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): how many years of hands-on hubspot crm configuration experience do you have?
+      🚩 Needs manual answer (AI flagged: model unsure): have you ever built and deployed a crm environment from scratch (including integrations)? if yes, describe the scope.
+      🚩 Needs manual answer (AI flagged: model unsure): on a scale of 1–10, how comfortable are you with data integrity, auditing, and governance inside hubspot?
+      🚩 Needs manual answer (AI flagged: model unsure): have you created crm documentation, sops, or playbooks for team adoption before?
+      🚩 Needs manual answer (AI flagged: model unsure): what’s your experience with integrating hubspot with dialers, schedulers, and reporting tools?
+      🚩 Needs manual answer (AI flagged: model unsure): have you directly led crm onboarding/training for teams or clients?
+      🤖 AI answered: what’s the most complex automation or workflow you’ve personally built in hubspot? -> The candidate has not built any complex automation or workflow in HubSpot, as there is no mention of HubSpot experience in their profile.
+      📝 Saved AI answer to additionalQuestions.yaml (inputField, needs_review): what’s the most complex automation or workflow you’ve personally built in hubspot?
+      ❓ how many years of hands-on hubspot crm configuration experience do you have? -> 0 [ai]
+      ❓ what’s the most complex automation or workflow you’ve personally built in hubspot? -> The candidate has not built any complex automation or workfl [ai]
+16 | HubSpot Systems & Data Engineer | Curvion Blue | Miami, FL | * 🥵 Cannot apply to this Job! (needs manual answers): https://www.ziprecruiter.com/jobs-search?search=python&lk=PHgX1vk7tmkqyiRipUtnDg
+
+ ZipRecruiter | Category: angular, Location: Remote
+17 | Frontend Designer - Remote | YO AI Labs | Miami, FL | * 🥳 Already applied!: https://www.ziprecruiter.com/jobs-search?search=angular&lk=znZ0YTiE6W9b3H-cgTqdIQ
+
+ ZipRecruiter | Category: nodejs, Location: Remote
+
+ ZipRecruiter | Category: java, Location: Remote
+18 | Backend C#/. - Remote | YO AI Labs | Miami, FL | * 🥳 Just Applied to this job: https://www.ziprecruiter.com/jobs-search?search=java&lk=GA2hY-yqGYv2a657_xR4oQ
+
+ ZipRecruiter | Category: nextjs, Location: Remote
+
+ ZipRecruiter | Category: php, Location: Remote
+
+ ZipRecruiter | Category: laravel, Location: Remote
+
+ ZipRecruiter | Category: nestjs, Location: Remote
+
+---- Session Summary ----
+Jobs processed: 18 | Applied: 8 | Blacklisted: 3 | Already applied: 2 | Could not apply: 5 | Duration: 129.5 min

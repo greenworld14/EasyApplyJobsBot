@@ -146,7 +146,7 @@ class ZipRecruiter(JobSiteBot):
         self.answeredQuestions = []
         properties = f"{self.countJobs} | {title} | {company} | {location}"
 
-        reason = self.isBlacklisted(title, company)
+        reason = self.isBlacklisted(title, company) or self.techBlacklisted(title)
         if reason:
             self.countBlacklisted += 1
             self.record(properties + f" ({reason})", "* 🤬 Blacklisted Job, skipped!", url)

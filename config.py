@@ -1,6 +1,6 @@
 # General bot settings to use Pro settings you need to download Pro version from: www.automated-bots.com
 
-#PRO FEATURE - browser you want the bot to run ex: ["Chrome"] or ["Firefox"]. Firefox is only supported in Pro feature
+# PRO FEATURE - browser you want the bot to run ex: ["Chrome"] or ["Firefox"]. Firefox is only supported in Pro feature
 browser = ["Chrome"]
 # Enter your Linkedin password and username below. Do not commit this file after entering these credentials.
 # Linkedin credentials
@@ -19,8 +19,78 @@ indeedPassword = ""
 searchLocations = ["Remote"]
 maxPagesPerSearch = 5
 manualLoginWaitSeconds = 300
-resumePath = r"D:\MMS\data\PAULA_CARVAJAL_AI.pdf"
-skills = ["Python", "Java", "Ruby", "JavaScript", "TypeScript", "SQL", "Angular", "React", "HTML", "HTML5", "CSS", "CSS3", "Tailwind", "FastAPI", "Django", "Spring Boot", "Spring", "Node", "Node.js", "NodeJS", "REST", "REST API", "Microservices", "TensorFlow", "PyTorch", "Keras", "scikit-learn", "Hugging Face", "LangChain", "OpenAI", "OpenAI API", "spaCy", "NLTK", "LLM", "LLMs", "NLP", "Machine Learning", "ML", "AI", "Artificial Intelligence", "Generative AI", "GenAI", "Computer Vision", "AWS", "SageMaker", "Vertex AI", "Azure ML", "MLflow", "Docker", "Kubernetes", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch", "Kafka", "Apache Kafka", "Spark", "Apache Spark", "Airflow", "Full Stack", "Full-Stack", "Frontend", "Front End", "Backend", "Back End", "Git", "CI/CD", "Agile"]
+resumePath = r"C:\Users\Henzzi\Documents\PAULA_CARVAJAL.pdf"
+skills = [
+    "Python",
+    "Java",
+    "Ruby",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "Angular",
+    "React",
+    "HTML",
+    "HTML5",
+    "CSS",
+    "CSS3",
+    "Tailwind",
+    "FastAPI",
+    "Django",
+    "Spring Boot",
+    "Spring",
+    "Node",
+    "Node.js",
+    "NodeJS",
+    "REST",
+    "REST API",
+    "Microservices",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "scikit-learn",
+    "Hugging Face",
+    "LangChain",
+    "OpenAI",
+    "OpenAI API",
+    "spaCy",
+    "NLTK",
+    "LLM",
+    "LLMs",
+    "NLP",
+    "Machine Learning",
+    "ML",
+    "AI",
+    "Artificial Intelligence",
+    "Generative AI",
+    "GenAI",
+    "Computer Vision",
+    "AWS",
+    "SageMaker",
+    "Vertex AI",
+    "Azure ML",
+    "MLflow",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch",
+    "Kafka",
+    "Apache Kafka",
+    "Spark",
+    "Apache Spark",
+    "Airflow",
+    "Full Stack",
+    "Full-Stack",
+    "Frontend",
+    "Front End",
+    "Backend",
+    "Back End",
+    "Git",
+    "CI/CD",
+    "Agile",
+]
 yearsOfExperience = 6
 yearsLeadingTeams = 2
 timeZone = "Eastern"
@@ -47,7 +117,13 @@ strengthsAnswer = "I combine strong full-stack fundamentals with hands-on AI exp
 timeZoneAnswer = "Eastern Time (ET) - New York, NY"
 salaryAlignAnswer = "Yes, my expectations align with the outlined range."
 desiredPay = 120000
-eeoAnswers = {"hispanic|latino": "Hispanic or Latino", "ethnicity|race": "", r"gender|\bsex\b": "", "veteran": "", "disabilit": ""}
+eeoAnswers = {
+    "hispanic|latino": "Hispanic or Latino",
+    "ethnicity|race": "",
+    r"gender|\bsex\b": "",
+    "veteran": "",
+    "disabilit": "",
+}
 desiredHourlyPay = 60
 salaryExpectationAnswer = "I'm flexible and open to a competitive offer within your budgeted range for this role."
 availabilityAnswer = "I can start within two weeks."
@@ -56,9 +132,9 @@ aboutMeAnswer = "I'm a Senior AI & Full-Stack Software Engineer with 6+ years of
 funFactAnswer = "I love turning everyday problems into small side projects - I've built several little tools just to automate my own routines."
 genericAnswer = "I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more detail."
 
-#PRO FEATURE - Optional! run browser in headless mode, no browser screen will be shown it will work in background.
+# PRO FEATURE - Optional! run browser in headless mode, no browser screen will be shown it will work in background.
 headless = False
-#PRO FEATURE - Optional! If you left above credentials fields empty. For Firefox or Chrome enter profile dir to run the bot to prevent logging in your account each time
+# PRO FEATURE - Optional! If you left above credentials fields empty. For Firefox or Chrome enter profile dir to run the bot to prevent logging in your account each time
 # get Firefox profile path by typing following url: about:profiles
 firefoxProfileRootDir = r""
 # get Chrome profile path by typing following url: chrome://version/
@@ -67,68 +143,113 @@ chromeProfilePath = r""
 # These settings are for running Linkedin job apply bot.
 # location you want to search the jobs - ex : ["Poland", "Singapore", "New York City Metropolitan Area", "Monroe County"]
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
-location = ["NorthAmerica","SouthAmerica"]
+location = ["NorthAmerica", "SouthAmerica"]
 # keywords related with your job search
-keywords = ["full-stack", "frontend", "react", "typescript","javascript", "vue", "python", "angular", "nodejs", "java", "nextjs", "php", "laravel", "nestjs"]
-#job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
-experienceLevels = [ "Entry level", "Associate" , "Mid-Senior level"]
-#job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
+keywords = [
+    "full-stack",
+    "frontend",
+    "react",
+    "typescript",
+    "javascript",
+    "vue",
+    "python",
+    "angular",
+    "nodejs",
+    "java",
+    "nextjs",
+    "php",
+    "laravel",
+    "nestjs",
+    "full stack",
+    "fullstack",
+    "web developer",
+    "software engineer",
+    "software developer",
+    "front-end",
+    "front end",
+    "backend",
+    "back-end",
+    "back end",
+    "web engineer",
+    "application developer",
+    "ui developer",
+    "ui engineer",
+    "mern",
+    "mean",
+    "saas developer",
+]
+# job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
+experienceLevels = ["Entry level", "Associate", "Mid-Senior level"]
+# job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
 datePosted = ["Past Month"]
-#job type - ex:  ["Full-time", "Part-time" , "Contract" , "Temporary", "Volunteer", "Intership", "Other"]
-jobType = ["Full-time", "Part-time" , "Contract"]
-#remote  - ex: ["On-site" , "Remote" , "Hybrid"]
-remote = [ "Remote" ]
-#salary - ex:["$40,000+", "$60,000+", "$80,000+", "$100,000+", "$120,000+", "$140,000+", "$160,000+", "$180,000+", "$200,000+" ] - select only one
-salary = [ "$80,000+"]
-#sort - ex:["Recent"] or ["Relevent"] - select only one
+# job type - ex:  ["Full-time", "Part-time" , "Contract" , "Temporary", "Volunteer", "Intership", "Other"]
+jobType = ["Full-time", "Part-time", "Contract"]
+# remote  - ex: ["On-site" , "Remote" , "Hybrid"]
+remote = ["Remote"]
+# salary - ex:["$40,000+", "$60,000+", "$80,000+", "$100,000+", "$120,000+", "$140,000+", "$160,000+", "$180,000+", "$200,000+" ] - select only one
+salary = ["$80,000+"]
+# sort - ex:["Recent"] or ["Relevent"] - select only one
 sort = ["Recent"]
-#Blacklist companies you dont want to apply - ex: ["Apple","Google"]
+# Blacklist companies you dont want to apply - ex: ["Apple","Google"]
 blacklistCompanies = []
-#Blaclist keywords in title - ex:["manager", ".Net"]
-blackListTitles = []
-#Follow companies after sucessfull application True - yes, False - no
+# Blaclist keywords in title - ex:["manager", ".Net"]
+blackListTitles = [
+    "manager",
+    "director",
+    "head of",
+    "vp",
+    "vice president",
+    "chief",
+    "cto",
+    "lead",
+    "principal",
+    "architect",
+    "supervisor",
+]
+techBlacklist = True
+# Follow companies after sucessfull application True - yes, False - no
 followCompanies = False
-#Below settings are for linkedin bot Pro, you can purchase monthly or yearly subscription to use them from me.
-#PRO FEATURE! - If you have multiple CV's you can choose which one you want the bot to use. (1- the first one on the list, 2 - second , etc)
+# Below settings are for linkedin bot Pro, you can purchase monthly or yearly subscription to use them from me.
+# PRO FEATURE! - If you have multiple CV's you can choose which one you want the bot to use. (1- the first one on the list, 2 - second , etc)
 preferredCv = 1
-#PRO FEAUTRE! - Output unaswered questions into a seperate text file, will output radio box, dropdown and input field questions into seperate .yaml file
+# PRO FEAUTRE! - Output unaswered questions into a seperate text file, will output radio box, dropdown and input field questions into seperate .yaml file
 outputSkippedQuestions = True
 autoLearnAnswers = True
-#PRO FEATURE! - Use AI to fill and answer skipped questions. Will cost 5 credits per answer cause of computational power.
+# PRO FEATURE! - Use AI to fill and answer skipped questions. Will cost 5 credits per answer cause of computational power.
 useAiAutocomplete = False
-#PRO FEATURE! - Only Apply these companies -  ex: ["Apple","Google"] -  leave empty for all companies 
+# PRO FEATURE! - Only Apply these companies -  ex: ["Apple","Google"] -  leave empty for all companies
 onlyApplyCompanies = []
-#PRO FEATURE! - Only Apply titles having these keywords -  ex:["web", "remote"] - leave empty for all companies 
-onlyApplyTitles = [] 
-#PRO FEATURE! - Dont apply the job posted by the Hiring member contains this in his/her name - ex: ["adam","Sarah"]
-blockHiringMember = [] 
-#PRO FEATURE! - Only apply the job sposted by the Hiring member contains this in his/her name - ex: ["adam","Sarah"]
-onlyApplyHiringMember = [] 
-#PRO FEATURE! - Only apply jobs having less than applications - ex:["100"] will apply jobs having upto 100 applications 
+# PRO FEATURE! - Only Apply titles having these keywords -  ex:["web", "remote"] - leave empty for all companies
+onlyApplyTitles = []
+# PRO FEATURE! - Dont apply the job posted by the Hiring member contains this in his/her name - ex: ["adam","Sarah"]
+blockHiringMember = []
+# PRO FEATURE! - Only apply the job sposted by the Hiring member contains this in his/her name - ex: ["adam","Sarah"]
+onlyApplyHiringMember = []
+# PRO FEATURE! - Only apply jobs having less than applications - ex:["100"] will apply jobs having upto 100 applications
 onlyApplyMaxApplications = []
-#PRO FEATURE! - Only apply jobs having more than applications - ex:["10"] will apply jobs having more than 10 applications 
+# PRO FEATURE! - Only apply jobs having more than applications - ex:["10"] will apply jobs having more than 10 applications
 onlyApplyMinApplications = []
-#PRO FEATURE! - Only apply jobs having these keywords in the job description
+# PRO FEATURE! - Only apply jobs having these keywords in the job description
 onlyApplyJobDescription = []
-#PRO FEATURE! - Do not apply the jobs having these keywords in the job description
+# PRO FEATURE! - Do not apply the jobs having these keywords in the job description
 blockJobDescription = []
-#PRO FEATURE! - Apply companies having equal or more than employes - ex: ["100"]
+# PRO FEATURE! - Apply companies having equal or more than employes - ex: ["100"]
 onlyAppyMimEmployee = []
-#PRO FEATURE - Apply the ones linkedin is saying "you may be a goodfit"
+# PRO FEATURE - Apply the ones linkedin is saying "you may be a goodfit"
 onlyApplyLinkedinRecommending = False
-#PRO FEATURE - Only apply the ones you have skilled badge
+# PRO FEATURE - Only apply the ones you have skilled badge
 onlyApplySkilledBages = False
-#PRO FEATURE! - Save the jobs by pressing SAVE button before apply  True - yes, False - no
+# PRO FEATURE! - Save the jobs by pressing SAVE button before apply  True - yes, False - no
 saveBeforeApply = False
-#PRO FEATURE! - Sent a message to the hiring manager once you apply for the role
+# PRO FEATURE! - Sent a message to the hiring manager once you apply for the role
 messageToHiringManager = ""
-#PRO FEATURE! - List and output non Easy Apply jobs links
+# PRO FEATURE! - List and output non Easy Apply jobs links
 listNonEasyApplyJobsUrl = False
-#PRO FEATURE! - Select radio button for unsawered questions. If the bot cannot find an answer for a radio button, it will automatically select first or second option. Default radio button answer, 1 for Yes, 2 for No. Leave empty if you dont want this option.
+# PRO FEATURE! - Select radio button for unsawered questions. If the bot cannot find an answer for a radio button, it will automatically select first or second option. Default radio button answer, 1 for Yes, 2 for No. Leave empty if you dont want this option.
 defaultRadioOption = 1
-#PRO FEATURE! - Check yes or no to all checkbox questions (True - yes, False - no), leave empty if you dont want this option
+# PRO FEATURE! - Check yes or no to all checkbox questions (True - yes, False - no), leave empty if you dont want this option
 answerAllCheckboxes = ""
-#PRO FEAUTRE! - Output file type. Can be .txt or .csv (excel) 
+# PRO FEAUTRE! - Output file type. Can be .txt or .csv (excel)
 outputFileType = [".txt"]
 
 # These settings are for running AngelCO job apply bot you need to purchase AngelCo bot obtain bot password, paste below and then run the bot.
@@ -146,7 +267,7 @@ GlobalLogicBotPassword = ""
 # AngelCO credits
 GlobalLogicEmail = ""
 GlobalLogicPassword = ""
-# Functions ex: ["Administration", "Business Development", "Business Solutions", "Content Engineering", 	
+# Functions ex: ["Administration", "Business Development", "Business Solutions", "Content Engineering",
 # Delivery Enablement", Engineering, Finance, IT Infrastructure, Legal, Marketing, People Development,
 # Process Management, Product Support, Quality Assurance,Sales, Sales Enablement,Technology, Usability and Design]
 GlobalLogicFunctions = ["Engineering"]
@@ -166,12 +287,12 @@ FirstName = "O"
 LastName = "D"
 Email = "paulaworkmi@gmail.com"
 LinkedInProfileURL = "www.google.com"
-Phone = "" #OPTIONAL
-Location = "" #OPTIONAL
-HowDidYouHeard = "" #OPTIONAL
-ConsiderMeForFutureOffers = True #true = yes, false = no
+Phone = ""  # OPTIONAL
+Location = ""  # OPTIONAL
+HowDidYouHeard = ""  # OPTIONAL
+ConsiderMeForFutureOffers = True  # true = yes, false = no
 
- # Testing & Debugging features
+# Testing & Debugging features
 displayWarnings = False
 
 # Safety / simulation features

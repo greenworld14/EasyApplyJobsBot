@@ -13,6 +13,7 @@ from typing import Dict, List, Optional
 
 import config
 import constants
+import techblacklist
 import utils
 from llm import AnswerAssistant, LLMClient
 
@@ -1372,33 +1373,10 @@ return out.slice(0, 15);
         result = self.runApplicationSteps(maxSteps)
         if result == "failed":
             self.unansweredQuestions = self.collectUnanswered()
-            if getattr(config, "autoLearnAnswers", True) and self.learnAnswers(self.unansweredQuestions):
+            if not getattr(self, "flaggedQuestions", []) and getattr(config, "autoLearnAnswers", True) and self.learnAnswers(self.unansweredQuestions):
                 result = self.runApplicationSteps(maxSteps)
                 self.unansweredQuestions = self.collectUnanswered() if result == "failed" else []
-            if result == "failed" and not self.unansweredQuestions and (self.dialogScope() is not None or not any(t in self.pageText() for t in self.successTexts)):
-                self.saveFailureSnapshot()
         return result
-
-    def saveFailureSnapshot(self) -> None:
-        try:
-            folder = os.path.join("data", "failed pages")
-            os.makedirs(folder, exist_ok=True)
-            name = time.strftime("%Y%m%d_%H%M%S") + "_" + re.sub(r"[^A-Za-z0-9]+", "_", self.currentCompany or self.siteName)[:40]
-            png, page = os.path.join(folder, name + ".png"), os.path.join(folder, name + ".html")
-            self.driver.save_screenshot(png)
-            with open(page, "w", encoding="utf-8") as f:
-                f.write(self.driver.page_source)
-            self.pendingSnapshots = [png, page]
-        except Exception:
-            pass
-
-    def discardSnapshots(self) -> None:
-        for path in getattr(self, "pendingSnapshots", []):
-            try:
-                os.remove(path)
-            except OSError:
-                pass
-        self.pendingSnapshots = []
 
     def learnedAnswer(self, question: str) -> Optional[str]:
         q = question.lower()
@@ -1459,6 +1437,8 @@ return out.slice(0, 15);
             if any(t in self.pageText() for t in self.successTexts):
                 return "applied"
             self.fillForm()
+            if getattr(self, "flaggedQuestions", []):
+                return "failed"
             scope = self.dialogScope()
             submit = self.findClickable(self.submitTexts, exact=True, scope=scope) or self.findClickable(["submit"], scope=scope)
             if submit is not None:
@@ -1499,16 +1479,39 @@ return out.slice(0, 15);
             reasons.append("blacklisted company: " + " ".join(companies))
         return ", ".join(reasons)
 
+    DESCRIPTION_SELECTORS = ['[data-testid="jobDescriptionHtml"]', '#jobDescription', '#jobDescriptionText',
+                             '.jobsearch-JobComponent-description', '.job_description', '[class*="jobDescription"]',
+                             '[class*="job_description"]', '[class*="job-description"]', '[data-testid*="description"]']
+
+    def jobDescription(self) -> str:
+        try:
+            text = self.driver.execute_script("""
+for (const s of arguments[0]) {
+  const e = document.querySelector(s);
+  if (e && (e.innerText || '').trim().length > 100) return e.innerText;
+}
+return '';
+""", self.DESCRIPTION_SELECTORS) or ""
+        except Exception:
+            text = ""
+        return text or self.pageText()
+
+    def techBlacklisted(self, title: str) -> str:
+        if not getattr(config, "techBlacklist", True):
+            return ""
+        result = techblacklist.check(title, self.jobDescription())
+        if result["decision"] == "REJECT":
+            return result["reason"]
+        if result["decision"] == "FLAG":
+            self.displayWriteResults("      🚩 Tech flag: " + json.dumps(result, ensure_ascii=False))
+        return ""
+
     failedHeader = ["Date", "Time", "Site", "Job Title", "Company", "Location", "Reason", "Link", "Questions Not Answered"]
 
     def record(self, properties: str, result: str, url: str) -> None:
         result = " ".join(result.split())
         self.displayWriteResults(f"{properties} | {result}: {url}")
         failed = "🥵" in result or "⚠️" in result
-        if failed and "manual answers" in result:
-            self.pendingSnapshots = []
-        else:
-            self.discardSnapshots()
         questions = self.unansweredQuestions if failed and "manual answers" in result else []
         for q in questions:
             self.displayWriteResults(f"      ❌ Not answered: {q}")
@@ -1544,43 +1547,61 @@ return out.slice(0, 15);
         try:
             os.makedirs("data", exist_ok=True)
             path = os.path.join("data", "Manual Answer Questions.csv")
-            rows: Dict[str, List[str]] = {}
+            textPath = os.path.join("data", "Manual Answer Questions.txt")
+            seen = set()
+            counts: Dict[str, int] = {}
             if os.path.exists(path):
                 with open(path, "r", encoding="utf-8-sig", newline="") as f:
                     for r in list(csv.reader(f))[1:]:
                         if r:
-                            rows[r[0]] = r + [""] * (len(self.questionListHeader) - len(r))
+                            seen.add((r[0].strip().lower(), r[6].strip() if len(r) > 6 else ""))
+                            if len(r) > 1 and r[1].isdigit():
+                                counts[r[0]] = max(counts.get(r[0], 0), int(r[1]))
             now = time.strftime("%Y-%m-%d %H:%M:%S")
+            self.refreshAnswers()
+            rows = []
             for raw in questions:
                 question = re.sub(r"\s*\[[^\]]*\]\s*$", "", raw).strip() or raw
+                key = (question.lower(), url.strip())
+                if key in seen:
+                    continue
+                seen.add(key)
                 flag = re.search(r"\[(AI flagged: [^\]]*)\]\s*$", raw)
-                times = int(rows[question][1]) + 1 if question in rows and rows[question][1].isdigit() else 1
-                rows[question] = [question, str(times), now, self.siteName, self.currentCompany, self.currentTitle, url, "", flag.group(1) if flag else ""]
-            self.refreshAnswers()
-            for r in rows.values():
-                r[7] = "" if r[8].startswith("AI flagged") else self.savedAnswerFor(r[0])
-            ordered = sorted(rows.values(), key=lambda r: (bool(r[7]), -int(r[1] or 0), r[0].lower()))
-            with open(path, "w", encoding="utf-8-sig", newline="") as f:
+                status = flag.group(1) if flag else ""
+                counts[question] = counts.get(question, 0) + 1
+                answer = "" if status else self.savedAnswerFor(question)
+                rows.append([question, str(counts[question]), now, self.siteName, self.currentCompany, self.currentTitle, url, answer, status])
+            if not rows:
+                return
+            newFile = not os.path.exists(path)
+            prefix = "" if newFile or self.endsWithNewline(path) else "\r\n"
+            with open(path, "a", encoding="utf-8-sig" if newFile else "utf-8", newline="") as f:
+                f.write(prefix)
                 writer = csv.writer(f)
-                writer.writerow(self.questionListHeader)
-                writer.writerows(ordered)
-            with open(os.path.join("data", "Manual Answer Questions.txt"), "w", encoding="utf-8") as f:
-                noForm = [r for r in ordered if r[0] == self.NO_QUESTION]
-                missing = [r for r in ordered if not r[7] and r[0] != self.NO_QUESTION]
-                answered = [r for r in ordered if r[7]]
-                f.write(f"Updated {now}\n\n")
-                if noForm:
-                    f.write(f"NOT A QUESTION PROBLEM - apply form did not open or has no Next/Submit button ({noForm[0][1]}x)\n")
-                    f.write(f"        last: {noForm[0][2]} | {noForm[0][3]} | {noForm[0][4]} | {noForm[0][5]} | {noForm[0][6]}\n\n")
-                f.write(f"NEED AN ANSWER ({len(missing)})\n")
-                for r in missing:
+                if newFile:
+                    writer.writerow(self.questionListHeader)
+                writer.writerows(rows)
+            newText = not os.path.exists(textPath)
+            prefix = "" if newText or self.endsWithNewline(textPath) else "\n"
+            with open(textPath, "a", encoding="utf-8") as f:
+                f.write(prefix)
+                if newText:
+                    f.write(f"Updated {now}\n\nNEED AN ANSWER\n")
+                for r in rows:
                     reason = f" ({r[8]})" if r[8] else ""
                     f.write(f"  [{r[1]}x] {r[0]}{reason}\n        last: {r[2]} | {r[3]} | {r[4]} | {r[5]} | {r[6]}\n")
-                f.write(f"\nANSWERED IN additionalQuestions.yaml ({len(answered)})\n")
-                for r in answered:
-                    f.write(f"  [{r[1]}x] {r[0]}\n        -> {r[7][:150]}\n")
+                    if r[7]:
+                        f.write(f"        -> {r[7][:150]}\n")
         except Exception as e:
             utils.prRed("❌ Could not write question list: " + str(e)[:80])
+
+    def endsWithNewline(self, path: str) -> bool:
+        with open(path, "rb") as f:
+            f.seek(0, os.SEEK_END)
+            if f.tell() == 0:
+                return True
+            f.seek(-1, os.SEEK_END)
+            return f.read(1) in (b"\n", b"\r")
 
     def logFailed(self, result: str, url: str, questions: Optional[List[str]] = None) -> None:
         questions = questions or []
