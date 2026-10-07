@@ -1373,6 +1373,8 @@ return out.slice(0, 15);
         result = self.runApplicationSteps(maxSteps)
         if result == "failed":
             self.unansweredQuestions = self.collectUnanswered()
+            self.saveFailedQuestions(self.unansweredQuestions)
+            self.saveFlaggedQuestions()
             if not getattr(self, "flaggedQuestions", []) and getattr(config, "autoLearnAnswers", True) and self.learnAnswers(self.unansweredQuestions):
                 result = self.runApplicationSteps(maxSteps)
                 self.unansweredQuestions = self.collectUnanswered() if result == "failed" else []
@@ -1394,6 +1396,42 @@ return out.slice(0, 15);
         if re.search(r"how many|\byears?\b|number of", q):
             return str(config.yearsOfExperience)
         return config.genericAnswer.format(**fmt)
+
+    def saveFlaggedQuestions(self) -> None:
+        if yaml is None:
+            return
+        flagged = getattr(self, "flaggedQuestions", [])
+        if not flagged:
+            return
+        to_save = {}
+        for question, reason in flagged:
+            q = self.cleanQuestion(question).lower()
+            if len(q) < 8 or q == "form error":
+                continue
+            if not to_save.get(q):
+                to_save[q] = {"answer": "", "needs_review": True}
+        if to_save:
+            self.appendYamlEntries("inputField", to_save)
+
+    def saveFailedQuestions(self, questions: List[str]) -> None:
+        if yaml is None or not questions:
+            return
+        to_save = {}
+        for raw in questions:
+            question = re.sub(r"\s*\[[^\]]*\]\s*$", "", raw).strip().lower()
+
+            if len(question) < 8 or question == "form error":
+                continue
+            if re.search(r"^(if other|please (specify|provide|explain))", question):
+                continue
+            if self.matchAnswer("inputField", question) or self.matchAnswer("radio", question) or self.matchAnswer("dropdown", question) or self.matchAnswer("checkbox", question):
+                continue
+
+            if not to_save.get(question):
+                to_save[question] = {"answer": "", "needs_review": True}
+
+        if to_save:
+            self.appendYamlEntries("inputField", to_save)
 
     def learnAnswers(self, questions: List[str]) -> bool:
         if yaml is None or not questions or self.aiEnabled():
@@ -1517,6 +1555,8 @@ return '';
             self.displayWriteResults(f"      ❌ Not answered: {q}")
         if failed:
             self.logFailed(result, url, questions)
+            self.saveFailedQuestions(questions)
+            self.saveFlaggedQuestions()
         flagged = [f"{q} [AI flagged: {reason}]" for q, reason in getattr(self, "flaggedQuestions", [])]
         listed = {self.cleanQuestion(re.sub(r"\s*\[[^\]]*\]\s*$", "", q)).lower() for q in questions}
         flagged = [f for f in flagged if self.cleanQuestion(re.sub(r"\s*\[[^\]]*\]\s*$", "", f)).lower() not in listed]
@@ -1677,6 +1717,10 @@ return '';
                 self.assistant = None
                 utils.prRed(f"❌ AI answers disabled for the rest of this run: {problem}")
                 self.displayWriteResults(f"      🚩 AI answers disabled: {problem}")
+
+        section = {"choice": "radio", "multi": "checkbox"}.get(kind, "inputField")
+        key = re.sub(r"\s*(\*|\(required\)|required)\s*$", "", question.strip(), flags=re.I).strip().lower()[:200]
+
         if value is None:
             self.lastAiFlagged = True
             if not hasattr(self, "flaggedQuestions"):
@@ -1685,19 +1729,20 @@ return '';
                 self.flaggedQuestions.append((question, reason))
             if fresh:
                 self.displayWriteResults(f"      🚩 Needs manual answer (AI flagged: {reason}): {question[:120]}")
+                if key and not self.yamlLookup([section], key) and yaml is not None:
+                    self.appendYamlEntries(section, {key: {"answer": "", "needs_review": True}})
             return None
+
         if fresh:
             shown = ", ".join(value) if isinstance(value, list) else str(value)
             self.displayWriteResults(f"      🤖 AI answered: {question[:120]} -> {shown[:150]}")
-            section = {"choice": "radio", "multi": "checkbox"}.get(kind, "inputField")
-            key = re.sub(r"\s*(\*|\(required\)|required)\s*$", "", question.strip(), flags=re.I).strip().lower()[:200]
             if key and not self.yamlLookup([section], key) and self.appendYamlEntries(section, {key: {"answer": shown, "needs_review": True}}):
                 self.displayWriteResults(f"      📝 Saved AI answer to additionalQuestions.yaml ({section}, needs_review): {key[:100]}")
         return value
 
     def appendYamlEntries(self, section: str, entries: Dict[str, Dict]) -> bool:
         path = "additionalQuestions.yaml"
-        if not entries or not os.path.exists(path):
+        if not entries or not os.path.exists(path) or yaml is None:
             return False
         try:
             if not os.path.exists(path + ".bak"):
@@ -1705,21 +1750,34 @@ return '';
             with open(path, "r", encoding="utf-8") as f:
                 original = f.read()
             lines = original.split("\n")
-            block = []
-            for key, fields in entries.items():
-                block.append(f"  {json.dumps(key, ensure_ascii=False)}:")
-                for name, value in fields.items():
-                    block.append(f"    {name}: {json.dumps(value, ensure_ascii=False)}")
             start = next((i for i, line in enumerate(lines) if re.match(rf"^{re.escape(section)}:\s*$", line)), None)
             if start is None:
+                block = []
+                for key, fields in entries.items():
+                    block.append(f"  {json.dumps(key, ensure_ascii=False)}:")
+                    for name, value in fields.items():
+                        block.append(f"    {name}: {json.dumps(value, ensure_ascii=False)}")
                 while lines and not lines[-1].strip():
                     lines.pop()
                 lines += [f"{section}:"] + block + [""]
             else:
                 end = next((i for i in range(start + 1, len(lines)) if re.match(r"^\S", lines[i])), len(lines))
-                while end > start + 1 and not lines[end - 1].strip():
-                    end -= 1
-                lines[end:end] = block
+                existing_keys = set()
+                for i in range(start + 1, end):
+                    match = re.match(r"^\s+(\S+):", lines[i])
+                    if match:
+                        existing_keys.add(match.group(1))
+                block = []
+                for key, fields in entries.items():
+                    key_json = json.dumps(key, ensure_ascii=False)
+                    if key_json.strip('"\'') not in existing_keys and f'"{key}"' not in existing_keys and f"'{key}'" not in existing_keys and key not in existing_keys:
+                        block.append(f"  {key_json}:")
+                        for name, value in fields.items():
+                            block.append(f"    {name}: {json.dumps(value, ensure_ascii=False)}")
+                if block:
+                    while end > start + 1 and not lines[end - 1].strip():
+                        end -= 1
+                    lines[end:end] = block
             updated = "\n".join(lines)
             yaml.safe_load(updated)
             with open(path, "w", encoding="utf-8") as f:

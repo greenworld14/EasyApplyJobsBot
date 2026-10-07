@@ -192,7 +192,8 @@ class ZipRecruiter(JobSiteBot):
 
         if config.dryRun:
             self.fillForm()
-            self.writeAnswers()
+            for qa in self.answeredQuestions:
+                self.displayWriteResults(f"      ❓ {qa}")
             self.record(properties, "* 🧪 DRY RUN - Questions answered, not submitted", url)
             self.closeDialog()
             self.closeExtraWindows(mainWindow)
@@ -202,9 +203,18 @@ class ZipRecruiter(JobSiteBot):
             result = "applied"
         else:
             result = self.completeApplication()
-            if result != "applied" and self.dialogScope() is None and self.appliedOnPage():
+            for qa in self.answeredQuestions:
+                self.displayWriteResults(f"      ❓ {qa}")
+            if result == "failed":
+                self.waitForPage()
+                if self.appliedOnPage():
+                    result = "applied"
+                elif self.findClickable(["submit", "submit application"], exact=True) is not None and not self.collectUnanswered():
+                    result = self.runApplicationSteps(3)
+                    if result == "failed" and self.appliedOnPage():
+                        result = "applied"
+            elif result != "applied" and self.dialogScope() is None and self.appliedOnPage():
                 result = "applied"
-        self.writeAnswers()
 
         if result == "applied":
             self.applied()
