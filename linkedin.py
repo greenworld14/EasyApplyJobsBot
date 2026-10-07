@@ -498,7 +498,6 @@ class Linkedin:
     def displayWriteResults(self, lineToWrite: str) -> None:
         try:
             print(lineToWrite)
-            utils.writeResults(lineToWrite)
         except Exception as e:
             utils.prRed("❌ Error in DisplayWriteResults: " +str(e))
 

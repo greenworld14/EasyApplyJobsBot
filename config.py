@@ -16,16 +16,20 @@ zipRecruiterEmail = ""
 zipRecruiterPassword = ""
 indeedEmail = "paulaworkmi@gmail.com"
 indeedPassword = ""
-searchLocations = ["Remote"]
+searchLocations = ["New Jersey"]
 maxPagesPerSearch = 5
 manualLoginWaitSeconds = 300
 resumePath = r"C:\Users\Henzzi\Documents\Paula_Carvajal.pdf"
 skills = [
     "Python",
     "Java",
-    "Ruby",
     "PHP",
     "Golang",
+    "C#",
+    ".NET",
+    ".NET Core",
+    "ASP.NET",
+    "ASP.NET Core",
     "JavaScript",
     "TypeScript",
     "SQL",
@@ -161,9 +165,27 @@ chromeProfilePath = r""
 # These settings are for running Linkedin job apply bot.
 # location you want to search the jobs - ex : ["Poland", "Singapore", "New York City Metropolitan Area", "Monroe County"]
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
-location = ["NorthAmerica", "SouthAmerica"]
+location = ["United States"]
 # keywords related with your job search
 keywords = [
+    "react developer",
+    "react engineer",
+    "typescript developer",
+    "javascript developer",
+    "node developer",
+    "nodejs developer",
+    "nextjs developer",
+    "vue developer",
+    "angular developer",
+    "python developer",
+    "django developer",
+    "fastapi developer",
+    "php developer",
+    "laravel developer",
+    "nestjs developer",
+    "mern",
+    "mean stack",
+    "saas developer",
     "full stack developer",
     "full-stack developer",
     "fullstack developer",
@@ -188,31 +210,6 @@ keywords = [
     "backend engineer",
     "back-end developer",
     "back end developer",
-    "react developer",
-    "react engineer",
-    "typescript developer",
-    "javascript developer",
-    "node developer",
-    "nodejs developer",
-    "nextjs developer",
-    "vue developer",
-    "angular developer",
-    "python developer",
-    "django developer",
-    "fastapi developer",
-    "php developer",
-    "laravel developer",
-    "nestjs developer",
-    "mern",
-    "mean stack",
-    "saas developer",
-    "ai engineer",
-    "generative ai engineer",
-    "genai engineer",
-    "llm engineer",
-    "llm developer",
-    "applied ai engineer",
-    "ai web developer",
 ]
 # job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
 experienceLevels = ["Entry level", "Associate", "Mid-Senior level"]
@@ -230,17 +227,80 @@ sort = ["Recent"]
 blacklistCompanies = []
 # Blaclist keywords in title - ex:["manager", ".Net"]
 blackListTitles = [
-    "manager",
-    "director",
-    "head of",
-    "vp",
-    "vice president",
-    "chief",
-    "cto",
-    "lead",
+    "data scientist",
+    "data engineer",
+    "data analyst",
+    "data architect",
+    "data science",
+    "data analytics",
+    "data entry",
+    "data steward",
+    "data governance",
+    "data modeler",
+    "data warehouse",
+    "big data",
+    "machine learning",
+    "ml engineer",
+    "mlops",
+    "ai engineer",
+    "deep learning",
+    "business intelligence",
+    "bi developer",
+    "bi analyst",
+    "etl",
+    "databricks",
+    "snowflake",
+    "hadoop",
+    "spark",
+    "tableau",
+    "power bi",
+    "dba",
+    "database administrator",
+    "analytics engineer",
+    "quantitative",
+    "statistician",
+    "senior manager",
+    "associate director",
+    "managing",
+    "general manager",
+    "project manager",
+    "program manager",
+    "product manager",
+    "delivery manager",
+    "engineering manager",
     "principal",
-    "architect",
-    "supervisor",
+    "staff engineer",
+    "distinguished",
+    "fellow",
+    "president",
+    "svp",
+    "evp",
+    "avp",
+    "ceo",
+    "coo",
+    "cfo",
+    "cio",
+    "founder",
+    "co-founder",
+    "executive",
+    "superintendent",
+    "coordinator",
+    "administrator",
+    "scrum master",
+    "product owner",
+    "team leader",
+    "solutions architect",
+    "software architect",
+    "cloud architect",
+    "enterprise architect",
+    "technical architect",
+    "application architect",
+    "systems architect",
+    "security architect",
+    "network architect",
+    "infrastructure architect",
+    "principal architect",
+    "chief architect",
 ]
 techBlacklist = True
 # Follow companies after sucessfull application True - yes, False - no
@@ -311,7 +371,7 @@ GlobalLogicFunctions = ["Engineering"]
 GlobalLogicExperience = ["0-1 years", "1-3 years"]
 # Global logic location filter: ["Argentina", "Chile", "Crotia", "Germany", "India","Japan", "Poland"
 # Romania, Sweden, Switzerland,Ukraine, United States]
-GlobalLogicLocation = ["poland"]
+GlobalLogicLocation = ["Poland"]
 # Freelance yes or no
 GlobalLogicFreelance = ["no"]
 # Remote work yes or no

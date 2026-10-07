@@ -1457,10 +1457,6 @@ return out.slice(0, 15);
         try:
             if not self.appendYamlEntries("inputField", {q: {"answer": a, "needs_review": True} for q, a in learned.items()}):
                 return False
-            os.makedirs("data", exist_ok=True)
-            with open(os.path.join("data", f"Learned Answers - {time.strftime('%Y%m%d')}.txt"), "a", encoding="utf-8") as f:
-                for question, answer in learned.items():
-                    f.write(f"{time.strftime('%H:%M:%S')} | {self.siteName} | {self.currentCompany} | {question} -> {answer}\n")
         except Exception as e:
             utils.prRed("❌ Could not save learned answers: " + str(e)[:80])
             return False
@@ -1554,7 +1550,7 @@ return '';
         for q in questions:
             self.displayWriteResults(f"      ❌ Not answered: {q}")
         if failed:
-            self.logFailed(result, url, questions)
+            pass
             self.saveFailedQuestions(questions)
             self.saveFlaggedQuestions()
         flagged = [f"{q} [AI flagged: {reason}]" for q, reason in getattr(self, "flaggedQuestions", [])]
@@ -1678,8 +1674,6 @@ return '';
     def displayWriteResults(self, line: str) -> None:
         try:
             print(line)
-            os.makedirs("data", exist_ok=True)
-            utils.writeResults(line)
         except Exception as e:
             utils.prRed("❌ Error writing results: " + str(e))
 
