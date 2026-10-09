@@ -16,8 +16,18 @@ zipRecruiterEmail = ""
 zipRecruiterPassword = ""
 indeedEmail = "paulaworkmi@gmail.com"
 indeedPassword = ""
-searchLocations = ["New Jersey"]
+searchLocations = ["New Jersey", "United States"]
 maxPagesPerSearch = 5
+indeedPositions = [
+    "react developer",
+    "typescript developer",
+    "full stack developer",
+    "software engineer",
+]
+indeedLocations = ["remote", "new york"]
+indeedRemoteOnly = True
+indeedMaxPages = 5
+indeedFromAge = 7
 manualLoginWaitSeconds = 300
 resumePath = r"C:\Users\Henzzi\Documents\Paula_Carvajal.pdf"
 skills = [
